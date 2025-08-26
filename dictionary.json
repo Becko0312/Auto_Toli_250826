@@ -1,0 +1,4662 @@
+[
+  {
+    "mongolian": "Xүйсний жийрэг",
+    "english": "GASKET"
+  },
+  {
+    "mongolian": "Тос бензин хөдөлгүүр бүтэн син 4л",
+    "english": "ENGINE OIL"
+  },
+  {
+    "mongolian": "Тосны шүүр",
+    "english": "OIL ELEMENT"
+  },
+  {
+    "mongolian": "Шүүр",
+    "english": "OIL FILTER"
+  },
+  {
+    "mongolian": "Тос бензин хөдөлгүүр синтетик 4л",
+    "english": "ENGINE OIL"
+  },
+  {
+    "mongolian": "Тос дизель хөдөлгүүр синтетик 4л",
+    "english": "ENGINE OIL"
+  },
+  {
+    "mongolian": "Агаар шүүгч",
+    "english": "AIR ELEMENT"
+  },
+  {
+    "mongolian": "Xуванцар түгжээ",
+    "english": "CLIP"
+  },
+  {
+    "mongolian": "Дугаарын гэрлийн ламп",
+    "english": "BULB"
+  },
+  {
+    "mongolian": "Цапны шпильк",
+    "english": "HEXLOBULAR STUD"
+  },
+  {
+    "mongolian": "Дугуйн шпилька",
+    "english": "HUB BOLT"
+  },
+  {
+    "mongolian": "Наклад",
+    "english": "DISCBRAKE PAD"
+  },
+  {
+    "mongolian": "Буузан шарик",
+    "english": "TAPERED BEARING"
+  },
+  {
+    "mongolian": "Тормозны шингэн 330мл",
+    "english": "BRAKEFLUIDDOT3"
+  },
+  {
+    "mongolian": "Xагас голын шпилканы хумс",
+    "english": "WASHER"
+  },
+  {
+    "mongolian": "Хагас голын сальник",
+    "english": "TYPESOIL SEAL"
+  },
+  {
+    "mongolian": "Салхины шилний босоо даруулганы түгжээ",
+    "english": "WINDSHIELD PAD"
+  },
+  {
+    "mongolian": "Нумны втулька",
+    "english": "BUSH"
+  },
+  {
+    "mongolian": "Эсгий сальник",
+    "english": "SEALSUB-ASSY"
+  },
+  {
+    "mongolian": "Дугуйн гайк шайбтай",
+    "english": "HUBWHER NUT"
+  },
+  {
+    "mongolian": "Өргөгчийн шингэн 2.5л",
+    "english": "SUSPENSIONFLUID"
+  },
+  {
+    "mongolian": "Автомат кропны хүйсний болт",
+    "english": "STRAIGHT PLUG"
+  },
+  {
+    "mongolian": "Свеча",
+    "english": "SPARK PLUG"
+  },
+  {
+    "mongolian": "Хөргөлтийн шингэн 4л",
+    "english": "LIFE SUPER LONG"
+  },
+  {
+    "mongolian": "Боолт , шайбтай",
+    "english": "WHER BOLT"
+  },
+  {
+    "mongolian": "Урд толь диск",
+    "english": "FR DISC"
+  },
+  {
+    "mongolian": "Тос бензин, дизель хөдөлгүүр 20л",
+    "english": "ENGINE OIL5W"
+  },
+  {
+    "mongolian": "Урд шилны бэхлэгч түгжээ",
+    "english": "WINDSHIELD CLIP"
+  },
+  {
+    "mongolian": "Тэнцүүлэгчийн даравч резин",
+    "english": "STABILIZER BUSH"
+  },
+  {
+    "mongolian": "Ступцны шарик",
+    "english": "73K BEARING RTP 45"
+  },
+  {
+    "mongolian": "Гар карданы наклад",
+    "english": "PARKING SHOEASSY"
+  },
+  {
+    "mongolian": "Тос ws хурдны хайрцаг 20л",
+    "english": "AUTOFLUIDWS"
+  },
+  {
+    "mongolian": "Гуперийн хуванцар түгжээ",
+    "english": "RRBUMPER PIECE"
+  },
+  {
+    "mongolian": "Шил арчигчийн резин",
+    "english": "WIPERBLADE RUBBER"
+  },
+  {
+    "mongolian": "Свеча сальник",
+    "english": "SPARKPLUG GASKET"
+  },
+  {
+    "mongolian": "Нумны гулгаа",
+    "english": "SILENCER"
+  },
+  {
+    "mongolian": "Xалаагч",
+    "english": "GLOW PLUGASSY"
+  },
+  {
+    "mongolian": "Дагуу гарны втулк",
+    "english": "BUSHSUB-ASSY"
+  },
+  {
+    "mongolian": "Түлхүүрийн баттерей",
+    "english": "TRANSMITTER BATTERY"
+  },
+  {
+    "mongolian": "Босоо тэнцүүлэгчийн дамар резин",
+    "english": "STABILIZER CUSHION"
+  },
+  {
+    "mongolian": "Гал хамгаалагч",
+    "english": "MINI FUSE"
+  },
+  {
+    "mongolian": "Парфлунжерийн зэс шайб",
+    "english": "DELIVERY GASKET"
+  },
+  {
+    "mongolian": "Урд пүрш",
+    "english": "FR SPRING COIL"
+  },
+  {
+    "mongolian": "Гидрийн шингэн 4л",
+    "english": "P-SFLUID4L"
+  },
+  {
+    "mongolian": "Xуванцар тэлэгч",
+    "english": "GROMMET"
+  },
+  {
+    "mongolian": "Форсунк цэвэрлэгч",
+    "english": "INJCLEANER(L)SMALL"
+  },
+  {
+    "mongolian": "Форсункны жийрэг",
+    "english": "INJECTOR INSULATOR"
+  },
+  {
+    "mongolian": "Клапан",
+    "english": "INTAKE VALVE"
+  },
+  {
+    "mongolian": "Амортизатор",
+    "english": "SHOCK ABSORBERSET"
+  },
+  {
+    "mongolian": "Редукторын бөглөөний жийргэвч",
+    "english": "DRAINPLUG GASKET"
+  },
+  {
+    "mongolian": "Чагтан гол",
+    "english": "UNIVERSAL SPIDERKIT"
+  },
+  {
+    "mongolian": "Дугуйн гайк шайбгүй",
+    "english": "HUB NUT"
+  },
+  {
+    "mongolian": "Тормозны уян хоолой",
+    "english": "FLEXIBLE HOSE"
+  },
+  {
+    "mongolian": "Ступцны сальник",
+    "english": "TYPETOIL SEAL"
+  },
+  {
+    "mongolian": "Гишгүүрийн тавцангийн хуванцар түгжээ",
+    "english": "SIDEDOOR INSERT"
+  },
+  {
+    "mongolian": "Гайк",
+    "english": "FLANGE NUT"
+  },
+  {
+    "mongolian": "Хаалганы хязгаарлагч",
+    "english": "FRDOOR CHECKASSY"
+  },
+  {
+    "mongolian": "Сам гайк",
+    "english": "NUT"
+  },
+  {
+    "mongolian": "Динамны ремень",
+    "english": "V BELTSET"
+  },
+  {
+    "mongolian": "Тос бензин, дизель хөдөлгүүр 200л",
+    "english": "ENGINE OIL5W-30()"
+  },
+  {
+    "mongolian": "Тормозны накладны түгжээ төмөр",
+    "english": "ANTI-RATTLE SPRING"
+  },
+  {
+    "mongolian": "Тормозны аппаратны жийргэвч резин",
+    "english": "CYLINDER BUSH"
+  },
+  {
+    "mongolian": "Доод гар",
+    "english": "ARMSUB-ASSY"
+  },
+  {
+    "mongolian": "Шрупп",
+    "english": "HEXLOBULAR SCREW"
+  },
+  {
+    "mongolian": "Ламп",
+    "english": "55W HB2BULB12V"
+  },
+  {
+    "mongolian": "Тэнцүүлэгчийн резин",
+    "english": "STABILIZE BUSH"
+  },
+  {
+    "mongolian": "Рулийн баракний цоожлогчтой болт",
+    "english": "BOLT"
+  },
+  {
+    "mongolian": "Рулийн аппарат",
+    "english": "POWER LINKASSY"
+  },
+  {
+    "mongolian": "Доод гарны жижиг втулк",
+    "english": "LWRARM BUSH"
+  },
+  {
+    "mongolian": "Урд зайн мэдрэгч хүрээ",
+    "english": "ULTRASONIC RETAINER"
+  },
+  {
+    "mongolian": "Урд шилний хүрээ резин",
+    "english": "WINDSHIELD DAM"
+  },
+  {
+    "mongolian": "Форсунк цэвэрлэгч дизел",
+    "english": "DIESELINJECTER"
+  },
+  {
+    "mongolian": "Xойд толь диск",
+    "english": "RR DISC"
+  },
+  {
+    "mongolian": "Вкладашь",
+    "english": "BEARINGSET"
+  },
+  {
+    "mongolian": "Форсунк",
+    "english": "HOLDER&NOZZLESET"
+  },
+  {
+    "mongolian": "Наклад тэлдэг",
+    "english": "RR SHOEKIT BRAKE"
+  },
+  {
+    "mongolian": "Хойд пүрш",
+    "english": "RR SPRING COIL"
+  },
+  {
+    "mongolian": "Саран түгжээ хойд хагас голын шарик",
+    "english": "SNAP RING"
+  },
+  {
+    "mongolian": "Захын дамжуулагчийн цаасан жийрэг",
+    "english": "FRAXLE GASKET"
+  },
+  {
+    "mongolian": "Бэхлэгч No.1 , рулийн гидрийн хөргөлтйин радиатор",
+    "english": "OIL COOLER BRACKET"
+  },
+  {
+    "mongolian": "Хуванцар түгжээ",
+    "english": "OUTSIDE RETAINER"
+  },
+  {
+    "mongolian": "Саран түгжээ таван бул",
+    "english": "HOLESNAP RING"
+  },
+  {
+    "mongolian": "Салхины шилний хүрээ резин",
+    "english": "MOULDING"
+  },
+  {
+    "mongolian": "Xойд цапны шарик",
+    "english": "RR BEARINGASSY"
+  },
+  {
+    "mongolian": "Доод гарны тохируулагч болт",
+    "english": "TOE CAMSUB-ASSY"
+  },
+  {
+    "mongolian": "Таван бул",
+    "english": "FR SHAFTSUB-ASSY"
+  },
+  {
+    "mongolian": "Редукторын түвшин хэмжигчийн болт",
+    "english": "PLUG"
+  },
+  {
+    "mongolian": "Шрүп",
+    "english": "SCREW"
+  },
+  {
+    "mongolian": "Xойд богино татуурга",
+    "english": "UPR ARMASSY"
+  },
+  {
+    "mongolian": "Хуруувч резин",
+    "english": "VALVESTEMOIL SEAL"
+  },
+  {
+    "mongolian": "Урд босоо тэнцүүлэгч",
+    "english": "FR LINKASSY"
+  },
+  {
+    "mongolian": "Тормозны аппаратын болт",
+    "english": "CYLINDERSLIDE PIN"
+  },
+  {
+    "mongolian": "Амортизаторын төмөртэй втулк",
+    "english": "RETAINERSUB-ASSY"
+  },
+  {
+    "mongolian": "Үзүүрийн шарнер",
+    "english": "ENDSUB-ASSY"
+  },
+  {
+    "mongolian": "Түгжээ 5",
+    "english": "O RING"
+  },
+  {
+    "mongolian": "Перда диск",
+    "english": "CLUTCH DISCASSY"
+  },
+  {
+    "mongolian": "Муфть шарик",
+    "english": "CLUTCH BEARINGASSY"
+  },
+  {
+    "mongolian": "Xойд цапны шарикны шайб",
+    "english": "RRAXLE RETAINER"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод хаалтны боолт",
+    "english": "WHER BOLT"
+  },
+  {
+    "mongolian": "Кольцо резин",
+    "english": "RING"
+  },
+  {
+    "mongolian": "Ган диск",
+    "english": "CLUTCH COVERASSY"
+  },
+  {
+    "mongolian": "Шил арчигч",
+    "english": "RH BLADE FRWIPER"
+  },
+  {
+    "mongolian": "Болт",
+    "english": "WASHERBASED BOLT"
+  },
+  {
+    "mongolian": "Духны ремень",
+    "english": "TIMING BELT"
+  },
+  {
+    "mongolian": "Яндан труба",
+    "english": "SPINDLESUB-ASSY"
+  },
+  {
+    "mongolian": "Клапангын хумс",
+    "english": "LOCK"
+  },
+  {
+    "mongolian": "Дугуйн хийн мэдрэгч",
+    "english": "TIRE VALVESUB-ASSY"
+  },
+  {
+    "mongolian": "Тавлагч хадаас",
+    "english": "RIVET"
+  },
+  {
+    "mongolian": "Бензин шүүрний түгжээ",
+    "english": "REPLACEMENTKIT"
+  },
+  {
+    "mongolian": "Клапангийн хундага",
+    "english": "VALVE LIFTER"
+  },
+  {
+    "mongolian": "Урд тормозны аппаратны түгжээ төмөр",
+    "english": "WE PIN"
+  },
+  {
+    "mongolian": "Xошуу",
+    "english": "TIRE FITTINGKIT"
+  },
+  {
+    "mongolian": "Xүйсний бөглөө",
+    "english": "WD PLUG"
+  },
+  {
+    "mongolian": "Xойд цапны шарикны завсарлагч шайб",
+    "english": "CONICAL WASHER"
+  },
+  {
+    "mongolian": "Рулийн амортизатор",
+    "english": "DAMPERASSY"
+  },
+  {
+    "mongolian": "Динамны ремень чангалагч",
+    "english": "TENSIONERASSY"
+  },
+  {
+    "mongolian": "Хомут , шлангны",
+    "english": "HOSE CLIP"
+  },
+  {
+    "mongolian": "Катушка үзүүрийн резин",
+    "english": "PLUG CAP"
+  },
+  {
+    "mongolian": "Цапны цаасан жийрэг",
+    "english": "KNUCKLE GASKET"
+  },
+  {
+    "mongolian": "Салхины шил доод хүрээ резин",
+    "english": "INSTRUMENT CUSHION"
+  },
+  {
+    "mongolian": "Тос хүч дамжуулах 20л",
+    "english": "GL-5 DIFF"
+  },
+  {
+    "mongolian": "Амортизаторын шайб доод",
+    "english": "CUSHION RETAINER"
+  },
+  {
+    "mongolian": "Xойд дагуу татуурга",
+    "english": "LWR ARMASSY"
+  },
+  {
+    "mongolian": "Гармошка резин",
+    "english": "FRDRIVE BOOTKIT"
+  },
+  {
+    "mongolian": "Нэгдүгээр голын шарик",
+    "english": "RADIALBALL BEARING"
+  },
+  {
+    "mongolian": "Xойд редиуторийн шпилька №1",
+    "english": "STUD BOLT"
+  },
+  {
+    "mongolian": "5-р арааны тэлэгч пүрш",
+    "english": "COMPRESSION SPRING"
+  },
+  {
+    "mongolian": "Механик кропны шар арааны шилжүүлэгч",
+    "english": "SYNCHROMESH KEY"
+  },
+  {
+    "mongolian": "Амьсгалын шланк",
+    "english": "HOES"
+  },
+  {
+    "mongolian": "Шил арчигчийн шрүп",
+    "english": "WHER SCREW"
+  },
+  {
+    "mongolian": "Урд гуперийн тогтоогчийн түгжээ",
+    "english": "FRBUMPER RETAINER"
+  },
+  {
+    "mongolian": "Түгжээ 2",
+    "english": "INSULATOR"
+  },
+  {
+    "mongolian": "EGR клапан",
+    "english": "EGR VALVEASSY"
+  },
+  {
+    "mongolian": "Парплунжер",
+    "english": "DISTRIBUT HEADS/A"
+  },
+  {
+    "mongolian": "Xаалганы дотор бариул",
+    "english": "HANDLESUB-ASSY"
+  },
+  {
+    "mongolian": "Тормозны трупны жийрэг",
+    "english": "FLEXIBLE GASKET"
+  },
+  {
+    "mongolian": "Стермен урт нь 230",
+    "english": "U BOLT"
+  },
+  {
+    "mongolian": "Цапны шарик",
+    "english": "FR BEARINGASSY"
+  },
+  {
+    "mongolian": "Лап резин",
+    "english": "CUSHIONSUB-ASSY"
+  },
+  {
+    "mongolian": "Xөргөлтийн компрессор",
+    "english": "COMPRESSORASSY"
+  },
+  {
+    "mongolian": "Суудлын дуу дарах материал",
+    "english": "CUSTOMEVABOARDSET"
+  },
+  {
+    "mongolian": "Багаж",
+    "english": "OILFILTER WRENCH"
+  },
+  {
+    "mongolian": "Тагны жийрэг №2",
+    "english": "CYLINDER GASKET"
+  },
+  {
+    "mongolian": "Шайб",
+    "english": "SPRING WASHER"
+  },
+  {
+    "mongolian": "Хаалганы дотор бариул",
+    "english": "DOOR HANDLEASSY"
+  },
+  {
+    "mongolian": "Чангалагч дамар",
+    "english": "PULLEY"
+  },
+  {
+    "mongolian": "Аппартурын жийрэг резин",
+    "english": "O-RING"
+  },
+  {
+    "mongolian": "Паарний мотор",
+    "english": "MOTORSUB-ASSY"
+  },
+  {
+    "mongolian": "Рулийн баракний гол",
+    "english": "TILT GEARASSY"
+  },
+  {
+    "mongolian": "Гупер",
+    "english": "FRBUMPER COVER"
+  },
+  {
+    "mongolian": "Захын дамжуулагч",
+    "english": "FREEWHEEL HUBASSY"
+  },
+  {
+    "mongolian": "Динам",
+    "english": "ALTERNATORASSY"
+  },
+  {
+    "mongolian": "Сальник тормосны доод аппарат",
+    "english": "RR CYLINDERKIT"
+  },
+  {
+    "mongolian": "Хаалганы гадна бариул",
+    "english": "HANDLE"
+  },
+  {
+    "mongolian": "Салхины шил",
+    "english": "GLASSS/A"
+  },
+  {
+    "mongolian": "Xойд дохионы ламп",
+    "english": "5W BULB"
+  },
+  {
+    "mongolian": "Жижиг духны гинж",
+    "english": "NO.2 CHAINSUB-ASSY"
+  },
+  {
+    "mongolian": "Xойд накладны даруулга төмөр",
+    "english": "ANTI SHIMKIT"
+  },
+  {
+    "mongolian": "Xөргөлтийн соронзон дамар",
+    "english": "MAGNET CLUTCHASSY"
+  },
+  {
+    "mongolian": "Тос cvt fe хурдны хайрцаг 4л",
+    "english": "CVTFLUIDFE4L"
+  },
+  {
+    "mongolian": "Товуд 9",
+    "english": "BRAKE CALIPER GREASE"
+  },
+  {
+    "mongolian": "Механик кропны гүймэл араа",
+    "english": "TRANSMISSION SLEEVE"
+  },
+  {
+    "mongolian": "Амортизаторын таваг",
+    "english": "FR SUPPORTSUB-ASSY"
+  },
+  {
+    "mongolian": "Поршин",
+    "english": "PISTONSUB-ASSY"
+  },
+  {
+    "mongolian": "Гишгүүрийн булан",
+    "english": "SIDEDOOR COVER"
+  },
+  {
+    "mongolian": "Редукторын хүйсний бөглөө",
+    "english": "STRAIGHTSCREW PLUG"
+  },
+  {
+    "mongolian": "Шахагч араа кропны №5",
+    "english": "GEARSPLINE PIECE"
+  },
+  {
+    "mongolian": "Бензин насос",
+    "english": "FUEL KIT PUMP"
+  },
+  {
+    "mongolian": "Толины доод таг",
+    "english": "OUTERMIRROR COVER"
+  },
+  {
+    "mongolian": "Тунгаагуурын бөглөө",
+    "english": "FUELFILTER PLUG"
+  },
+  {
+    "mongolian": "Урд гупер доод түгжээ",
+    "english": "SCREW GROMMET"
+  },
+  {
+    "mongolian": "Савхан шарик",
+    "english": "NEEDLE BEARING"
+  },
+  {
+    "mongolian": "Рулийн уян утас",
+    "english": "CABLESUB-ASSY"
+  },
+  {
+    "mongolian": "Динамны щётка",
+    "english": "BRUSH HOLDERS/A"
+  },
+  {
+    "mongolian": "Урд салхины шил түгжээ",
+    "english": "WINDSHIELD SEAL"
+  },
+  {
+    "mongolian": "Кардан голны болтны шайб",
+    "english": "SPACER"
+  },
+  {
+    "mongolian": "Хойд суудал хажуу шайба",
+    "english": "RRNO.2 SPOILER"
+  },
+  {
+    "mongolian": "Механик кропны шар араа",
+    "english": "SYNCHRONIZER RING"
+  },
+  {
+    "mongolian": "Гишгүүрийн арын хаалт резин",
+    "english": "RRRH PANEL STEP"
+  },
+  {
+    "mongolian": "Урд гуперийн дээд сетки",
+    "english": "RADIATOR GRILLE"
+  },
+  {
+    "mongolian": "Салхины шилний босоо даруулганы дээврийн түгжээ",
+    "english": "ROOFDRIPSIDE CLIP"
+  },
+  {
+    "mongolian": "Урд редукторын жийрэг",
+    "english": "DIFFERENTIAL GASKET"
+  },
+  {
+    "mongolian": "Багажны хаалганы цоож",
+    "english": "BACK LOCKASSY"
+  },
+  {
+    "mongolian": "Өндөр даралтын шланк",
+    "english": "PRESSURE TUBEASSY"
+  },
+  {
+    "mongolian": "Xаалганы дотор бариул, баруун урд",
+    "english": "FR HANDLESUB-ASSY"
+  },
+  {
+    "mongolian": "Тос cvt tc хурдны хайрцаг 4л",
+    "english": "CVTFLUIDTC"
+  },
+  {
+    "mongolian": "Xойд накладны хавчаар төмөр",
+    "english": "DISC FITTINGKIT"
+  },
+  {
+    "mongolian": "Хаалганы хязгаарлагчийн түгжээ",
+    "english": "DOORCHECK PIN"
+  },
+  {
+    "mongolian": "Механик кропны хувиарлагч 5-р араа",
+    "english": "COUNTERSHAFT GEAR"
+  },
+  {
+    "mongolian": "Доод гарны тохируулагчтай гайк",
+    "english": "TOEADJUST PLATE"
+  },
+  {
+    "mongolian": "Арам кузовны боолт",
+    "english": "BODYMOUNTING BOLT"
+  },
+  {
+    "mongolian": "Конс дөрөө",
+    "english": "PEDALSUB-ASSY"
+  },
+  {
+    "mongolian": "Захын дамжуулагчийн таг",
+    "english": "CAP"
+  },
+  {
+    "mongolian": "Конс дөрөө шпонк",
+    "english": "PIN"
+  },
+  {
+    "mongolian": "Агаар шүүгчний гэр",
+    "english": "COOLINGUNIT PARTS"
+  },
+  {
+    "mongolian": "Чиглүүлэгч дамар №2",
+    "english": "PULLEYSUB-ASSY"
+  },
+  {
+    "mongolian": "Гуперийн зай мэдрэгч",
+    "english": "ULTRASONIC SENSOR"
+  },
+  {
+    "mongolian": "Гидрийн ндөр даралтын шланкны шайб",
+    "english": "PRESSURE GASKET"
+  },
+  {
+    "mongolian": "Дээд гар",
+    "english": "ARMASSY"
+  },
+  {
+    "mongolian": "Форсункны дээд тагны жийрэг",
+    "english": "NOZZLE GASKET"
+  },
+  {
+    "mongolian": "Хойд хормой",
+    "english": "RRBUMPER COVER"
+  },
+  {
+    "mongolian": "Механик кропны 5-арааны шахагч пүрш",
+    "english": "SYNCHROMESH SPRING"
+  },
+  {
+    "mongolian": "Урд хагас гол",
+    "english": "FRAXLE SHAFT"
+  },
+  {
+    "mongolian": "Запас дугуй өргөгч",
+    "english": "SPARE CARRIERASSY"
+  },
+  {
+    "mongolian": "Духны гинжний зам",
+    "english": "CHAIN DAMPER"
+  },
+  {
+    "mongolian": "Доод гарны том втулк",
+    "english": "NO.2 BUSH LWRARM"
+  },
+  {
+    "mongolian": "Урд гупер арын хөөсөнцөх хамгаалалт",
+    "english": "FRBUMPER ABSORBER"
+  },
+  {
+    "mongolian": "Том духны гинж",
+    "english": "CHAINSUB-ASSY"
+  },
+  {
+    "mongolian": "Консны дөрөөний резин",
+    "english": "PEDAL PAD"
+  },
+  {
+    "mongolian": "Стартер",
+    "english": "STARTERASSY"
+  },
+  {
+    "mongolian": "Багажны хаалганы мэдрэгч",
+    "english": "BACK SWITCHASSY"
+  },
+  {
+    "mongolian": "Тормозны педалний мэдрэгч",
+    "english": "STOP SWITCHASSY"
+  },
+  {
+    "mongolian": "Агаар оруулах хоолойны жийрэг",
+    "english": "INTAKE GASKET"
+  },
+  {
+    "mongolian": "Механик кропны 3,4-р арааны хумсан түгжээ",
+    "english": "KEY"
+  },
+  {
+    "mongolian": "Хаалганы резин",
+    "english": "FR WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Гар втулька",
+    "english": "UPR ARM BUSH"
+  },
+  {
+    "mongolian": "Гинж чангалагчын зам",
+    "english": "CHAIN SLIPPER"
+  },
+  {
+    "mongolian": "Яндангийн дэр резин",
+    "english": "EXHAUST CUSHION"
+  },
+  {
+    "mongolian": "Урд ступц",
+    "english": "FRAXLE HUBSET"
+  },
+  {
+    "mongolian": "Хойд хэвтээ тэнцүүлэгчийн даравч төмөр",
+    "english": "COVER"
+  },
+  {
+    "mongolian": "Шатун",
+    "english": "CONNECTING ROD"
+  },
+  {
+    "mongolian": "Рулийн шарнер",
+    "english": "STEERING RODSET"
+  },
+  {
+    "mongolian": "Рулын доод чагт",
+    "english": "STRG SHAFTSUB-ASSY"
+  },
+  {
+    "mongolian": "Гидро насос",
+    "english": "VANE PUMPASSY"
+  },
+  {
+    "mongolian": "Шар втулка",
+    "english": "SOLID BUSH"
+  },
+  {
+    "mongolian": "Манангийн гэрэл",
+    "english": "LH LAMPASSY FOG"
+  },
+  {
+    "mongolian": "Арын доод хаалганы цоожны онгойлгогч",
+    "english": "BACK CONTROLASSY"
+  },
+  {
+    "mongolian": "Хаалганы цоож",
+    "english": "FRDOOR LOCKASSY"
+  },
+  {
+    "mongolian": "Урд гуперийн доод эмжээр",
+    "english": "FRBUMPER MOULDING"
+  },
+  {
+    "mongolian": "Урд гупер тогтоогч",
+    "english": "FRBUMPER SUPPORT"
+  },
+  {
+    "mongolian": "Тохируулагч шайб",
+    "english": "OVERHAUL GASKETKIT"
+  },
+  {
+    "mongolian": "Банкны таг",
+    "english": "FUELTANK CAPASSY"
+  },
+  {
+    "mongolian": "Урд гупер арын хөөсөнцөр хамгаалалт",
+    "english": "FRBUMPER ABSORBER"
+  },
+  {
+    "mongolian": "Хойд гупер тогтоогч",
+    "english": "RRBUMPER RETAINER"
+  },
+  {
+    "mongolian": "Амортизаторын шайб",
+    "english": "SHOCK CUSHION"
+  },
+  {
+    "mongolian": "Хойд амортизаторын дамп",
+    "english": "RR ACCUMULATOR"
+  },
+  {
+    "mongolian": "Эмблем",
+    "english": "SYMBOL EMBLEM"
+  },
+  {
+    "mongolian": "Кольц",
+    "english": "PISTON RINGSET"
+  },
+  {
+    "mongolian": "Xойд хөндлөн татуурга",
+    "english": "LATERAL RODASSY"
+  },
+  {
+    "mongolian": "Радиаторын тулгуурны резин",
+    "english": "RADIATOR BUSH"
+  },
+  {
+    "mongolian": "Паарны тросс",
+    "english": "AIR CABLESUB-ASSY"
+  },
+  {
+    "mongolian": "Механик кропны шар арааны буцаагч",
+    "english": "REVERSE RING"
+  },
+  {
+    "mongolian": "Механик кропны шар арааны конусан цагираг",
+    "english": "SYNCHRONIZER RING"
+  },
+  {
+    "mongolian": "Урд кардан гол",
+    "english": "SHAFTASSY"
+  },
+  {
+    "mongolian": "Усны помп",
+    "english": "WATER PUMPASSY"
+  },
+  {
+    "mongolian": "Термостат",
+    "english": "THERMOSTAT"
+  },
+  {
+    "mongolian": "Гар тормозны таг төмөр",
+    "english": "CUP"
+  },
+  {
+    "mongolian": "Хойд гэрэл",
+    "english": "RR LAMPASSY"
+  },
+  {
+    "mongolian": "Бөглөө",
+    "english": "OILFILTER PLUG"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн ком жийрэг",
+    "english": "ENGINE GASKETKIT"
+  },
+  {
+    "mongolian": "Чирэгчийн таг",
+    "english": "RRBUMPER EXTENSION"
+  },
+  {
+    "mongolian": "Баруун урд крыло хөмсөг",
+    "english": "MOULDING SUB-ASSY"
+  },
+  {
+    "mongolian": "Багажны хаалганы шилний зөөлөвч",
+    "english": "BACKDOORGLASS DAM"
+  },
+  {
+    "mongolian": "Багажны хаалга онгойлгогч",
+    "english": "BACKDOOR HANDLE"
+  },
+  {
+    "mongolian": "Домкратны уртасгагч иш",
+    "english": "EXTENSIONSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд доод буфер",
+    "english": "FR SPOILER COVER"
+  },
+  {
+    "mongolian": "Гуперийн хормой",
+    "english": "FRSPOILER COVER"
+  },
+  {
+    "mongolian": "Банкны насос",
+    "english": "FUEL TUBEASSY"
+  },
+  {
+    "mongolian": "Xойд их бие дээрх гэрэл",
+    "english": "RR LENS&BODY"
+  },
+  {
+    "mongolian": "Шалавч LC200",
+    "english": "LANDCRUAWMTUBSTYLE"
+  },
+  {
+    "mongolian": "Их гэрлийн никель",
+    "english": "RH COVER HEADLAMP"
+  },
+  {
+    "mongolian": "Их гэрэл угаагчийн хомут",
+    "english": "HEADLAMP CLAMP"
+  },
+  {
+    "mongolian": "Түлшний аппаратур",
+    "english": "INJECTION PUMPASSY"
+  },
+  {
+    "mongolian": "Тулах шайб",
+    "english": "WASHERSET"
+  },
+  {
+    "mongolian": "Урд гуперийн нэмэлт гэрлийн хүрээ",
+    "english": "FR COVERASSY"
+  },
+  {
+    "mongolian": "Шиплент",
+    "english": "COTTER PIN"
+  },
+  {
+    "mongolian": "Домкрат",
+    "english": "SCREW JACKSUB-ASSY"
+  },
+  {
+    "mongolian": "Катушка",
+    "english": "IGNITION COIL"
+  },
+  {
+    "mongolian": "Шаврын хаалт",
+    "english": "QUARTER MUDGUARD"
+  },
+  {
+    "mongolian": "Дугуйн дорцов",
+    "english": "HUBNUTBOX WRENCH"
+  },
+  {
+    "mongolian": "Агааржуулалтын насосны клапан",
+    "english": "EMISSION VALVESET"
+  },
+  {
+    "mongolian": "ABS мэдрэгч",
+    "english": "FRLH SENSOR SPEED"
+  },
+  {
+    "mongolian": "Радиаторын дээд хаалт",
+    "english": "RADIATOR SEAL"
+  },
+  {
+    "mongolian": "Шар араа",
+    "english": "RINGSET"
+  },
+  {
+    "mongolian": "Зүүн урд их гэрлийн ус цацагч суурь 1",
+    "english": "WASHER BRACKET"
+  },
+  {
+    "mongolian": "Рулийн аппаратны гармошка резин",
+    "english": "STEERINGRACK BOOT"
+  },
+  {
+    "mongolian": "Урп гуперийн доод хаалт",
+    "english": "FRBUMPER COVER"
+  },
+  {
+    "mongolian": "Тос t4 хурдны хайрцаг 20л",
+    "english": "ATF"
+  },
+  {
+    "mongolian": "Багажны хаалганы резин",
+    "english": "BACK WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Банкны тагны тросс",
+    "english": "FUEL CABLESUB-ASSY"
+  },
+  {
+    "mongolian": "Урд амортизаторын дамп",
+    "english": "FR ACCUMULATOR"
+  },
+  {
+    "mongolian": "Их гэрэл",
+    "english": "UNITASSY"
+  },
+  {
+    "mongolian": "Нударган голын жижиг араа",
+    "english": "CAMSHAFT SPROCKET"
+  },
+  {
+    "mongolian": "кропны нэгдүгээр гол",
+    "english": "SHAFTSUB-ASSY"
+  },
+  {
+    "mongolian": "Шайв",
+    "english": "PLATE WASHER"
+  },
+  {
+    "mongolian": "Лёбодканы таг",
+    "english": "FR COVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд дээд гар",
+    "english": "LEADING ARMASSY"
+  },
+  {
+    "mongolian": "Подкрыло",
+    "english": "RH LINER FRFENDER"
+  },
+  {
+    "mongolian": "Урд гуперийн сетки",
+    "english": "GRILLESUB-ASSY"
+  },
+  {
+    "mongolian": "Хаалганы нугас",
+    "english": "DOOR HINGEASSY"
+  },
+  {
+    "mongolian": "Тосны насос",
+    "english": "PUMPASSY"
+  },
+  {
+    "mongolian": "Копот",
+    "english": "HOODSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд сетек нүүр RH",
+    "english": "RADIATOR GRILLE"
+  },
+  {
+    "mongolian": "Их гэрэл угаагчийн таг",
+    "english": "HEADLAMP COVER"
+  },
+  {
+    "mongolian": "Доод гарны тохируулагч боолтны шайба",
+    "english": "CAMBERADJUST CAM"
+  },
+  {
+    "mongolian": "Хянах самбарын шил",
+    "english": "COMBINATION GLASS"
+  },
+  {
+    "mongolian": "Банкны шүүр",
+    "english": "SUCTION FILTER"
+  },
+  {
+    "mongolian": "Кузов өргөгчийн насос",
+    "english": "PUMP&MOTORASSY"
+  },
+  {
+    "mongolian": "Тормозны аппарат",
+    "english": "DISC CYLINDERASSY"
+  },
+  {
+    "mongolian": "Термомуфт",
+    "english": "FLUID COUPLINGASSY"
+  },
+  {
+    "mongolian": "Труппны дээд тагны жийрэг",
+    "english": "NOZZLEHOLDER SEAL"
+  },
+  {
+    "mongolian": "Сигнал",
+    "english": "HIGH HORNASSY"
+  },
+  {
+    "mongolian": "Лебёдканы сальник том",
+    "english": "X RING"
+  },
+  {
+    "mongolian": "Кропны 3-р араа",
+    "english": "3RD GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Механик кропны бөөр араа",
+    "english": "GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Гишгүүрийн гадна хүрээ",
+    "english": "STEP COVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Гишгүүрийн эмжээр резин",
+    "english": "SIDEDOOR MOULDING"
+  },
+  {
+    "mongolian": "Механик хурдны хайрцаг",
+    "english": "TRANSMISSIONUNIT"
+  },
+  {
+    "mongolian": "Тормосны аппаратны болт таглаа",
+    "english": "PLUG"
+  },
+  {
+    "mongolian": "Хаалганы шил өргөгч",
+    "english": "FR REGULATORASSY"
+  },
+  {
+    "mongolian": "Ус шүршигч таг баруун",
+    "english": "HEADLAMP COVER"
+  },
+  {
+    "mongolian": "Хойд хормой LC300 GR",
+    "english": "RR BUMPER COVER"
+  },
+  {
+    "mongolian": "Асаалтын түлхүүрийн свич",
+    "english": "SWITCHASSY"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод хаалт таг",
+    "english": "ENGINEUNDER SEAL"
+  },
+  {
+    "mongolian": "Багажны хаалганы шилний резин",
+    "english": "BACK MOULDING"
+  },
+  {
+    "mongolian": "урд цапны шарик",
+    "english": "BEARING"
+  },
+  {
+    "mongolian": "Туслах кропны шарик",
+    "english": "72F BEARING BAL 35"
+  },
+  {
+    "mongolian": "Хайчин зам",
+    "english": "REGULATORSUB-ASSY"
+  },
+  {
+    "mongolian": "Суудлын дэлгэцний гэр",
+    "english": "TELEVISION COVER"
+  },
+  {
+    "mongolian": "Урд редукторын тоосны жийрэг",
+    "english": "TYPEKOIL SEAL"
+  },
+  {
+    "mongolian": "Таван булны хомут",
+    "english": "RRDRIVE CLAMP"
+  },
+  {
+    "mongolian": "Тахир голын араа",
+    "english": "CRANKSHAFT SPROCKET"
+  },
+  {
+    "mongolian": "Дугаарын гэрэл",
+    "english": "LICENSE LAMPASSY"
+  },
+  {
+    "mongolian": "Арааны шилжүүлэгчийн мэдрэгч",
+    "english": "TRANSFERIND SWITCH"
+  },
+  {
+    "mongolian": "Капотны нугас",
+    "english": "RH HINGEASSY HOOD"
+  },
+  {
+    "mongolian": "ABS утас",
+    "english": "SKIDCONTROL WIRE"
+  },
+  {
+    "mongolian": "Урд гуперийн дугаар тогтоогч",
+    "english": "FRBUMPER BRACKET"
+  },
+  {
+    "mongolian": "Гишгүүрийн хөнгөн цагаан суурь",
+    "english": "RH PANEL STEP"
+  },
+  {
+    "mongolian": "Запас дугуй дүүжлэгчийн кноп",
+    "english": "CLAMP"
+  },
+  {
+    "mongolian": "Их гэрэл угаагч",
+    "english": "ACTUATORSUB-ASSY"
+  },
+  {
+    "mongolian": "Тосны даралтын мэдрэгч",
+    "english": "OIL SWITCHASSY"
+  },
+  {
+    "mongolian": "Крыло",
+    "english": "RH FENDERSUB-ASSY"
+  },
+  {
+    "mongolian": "Хаалганы анхааруулгын мэдрэгч",
+    "english": "COURTESY SWITCH"
+  },
+  {
+    "mongolian": "Рам кузов лап резин хойд",
+    "english": "CAB STOPPER"
+  },
+  {
+    "mongolian": "Толь",
+    "english": "OUTER MIRRORASSY"
+  },
+  {
+    "mongolian": "Крьшка",
+    "english": "HEADSUB-ASSY"
+  },
+  {
+    "mongolian": "Багаж хойд шил",
+    "english": "BACK GLASSSUB-ASSY"
+  },
+  {
+    "mongolian": "Домкрат уртасгагч",
+    "english": "JACK LEVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Паарны шилжүүлэгч",
+    "english": "HEATER CONTROLASSY"
+  },
+  {
+    "mongolian": "Турбин №2",
+    "english": "TURBOCHARGER"
+  },
+  {
+    "mongolian": "Тохируулагч гайк",
+    "english": "FANBELT SLIDER"
+  },
+  {
+    "mongolian": "Конс",
+    "english": "CLUTCHPEDAL HOLDER"
+  },
+  {
+    "mongolian": "Духны гинжний араа",
+    "english": "IDLE SPROCKETASSY"
+  },
+  {
+    "mongolian": "2-р гол кропны",
+    "english": "OUTPUT SHAFT"
+  },
+  {
+    "mongolian": "Багажны хаалганы шилний түгжээ",
+    "english": "BACKWINDOW CLIP"
+  },
+  {
+    "mongolian": "Салон агаар шүүгч",
+    "english": "AIR REFINER ELEMENT"
+  },
+  {
+    "mongolian": "Духны ремень чангалагчын шарик №1",
+    "english": "IDLERSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд цап",
+    "english": "STEERING KNUCKLE"
+  },
+  {
+    "mongolian": "Баруун их гэрэл",
+    "english": "HEADLAMP UNIT"
+  },
+  {
+    "mongolian": "Нэмэлт гэрлийн ламп",
+    "english": "SOCKET LED"
+  },
+  {
+    "mongolian": "Урд нүүрний хуванцар түгжээ",
+    "english": "RADIATOR CLIP"
+  },
+  {
+    "mongolian": "Хойд чирэгч таг",
+    "english": "RR BUMPER EXTENSION"
+  },
+  {
+    "mongolian": "Том араа",
+    "english": "CAMSHAFT GEARASSY"
+  },
+  {
+    "mongolian": "Обуд",
+    "english": "18INCHALLOYWHEEL"
+  },
+  {
+    "mongolian": "Хаалганы цоожны тросс",
+    "english": "LINK"
+  },
+  {
+    "mongolian": "2-р араа",
+    "english": "2ND GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Духны ремены таг",
+    "english": "TIMINGBELT COVER"
+  },
+  {
+    "mongolian": "Хойд тормозны барбан",
+    "english": "BRAKE DRUM"
+  },
+  {
+    "mongolian": "Агааржуулалтын насос",
+    "english": "AIR PUMPASSY"
+  },
+  {
+    "mongolian": "Миллний хуванцар араа",
+    "english": "GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Туслах кроп",
+    "english": "TRANSFERASSY"
+  },
+  {
+    "mongolian": "Капотны цоожны гадна таг",
+    "english": "HOODLOCK PROTECTOR"
+  },
+  {
+    "mongolian": "Хойд чирэгчийн гогцоо",
+    "english": "EYELETPINTLE HOOK"
+  },
+  {
+    "mongolian": "Гишгүүрийн карештин төмөр",
+    "english": "SIDESTEP BRACKET"
+  },
+  {
+    "mongolian": "Свечаны утас №2",
+    "english": "SPARKPLUG CORD"
+  },
+  {
+    "mongolian": "Гэрлийн лампны таг",
+    "english": "SOCKET COVER"
+  },
+  {
+    "mongolian": "Хаалга",
+    "english": "FR PANELSUB-ASSY"
+  },
+  {
+    "mongolian": "Баруун интеркүүлэрийн радиаторын хүрээ",
+    "english": "SUB-RADIATOR DUCT"
+  },
+  {
+    "mongolian": "Копут тросс",
+    "english": "HOOD CABLEASSY"
+  },
+  {
+    "mongolian": "Урд дотор жааз",
+    "english": "SUPPORTSUB-ASSY"
+  },
+  {
+    "mongolian": "Тормозны төв аппарат",
+    "english": "CYLINDERSUB-ASSY"
+  },
+  {
+    "mongolian": "Механик кропны 3,4-р арааны пүршин түгжээ",
+    "english": "SPRING"
+  },
+  {
+    "mongolian": "Гар карданы тросс",
+    "english": "PARKING CABLEASSY"
+  },
+  {
+    "mongolian": "Урд чулак",
+    "english": "FR HOUSINGASSY"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгчийн цоожны тросс",
+    "english": "SPARE CABLEASSY"
+  },
+  {
+    "mongolian": "Гэр",
+    "english": "OILFILTER CAPASSY"
+  },
+  {
+    "mongolian": "Сеткин нүүр доод тогтоогч зүүн",
+    "english": "RADIATOR GARNISH"
+  },
+  {
+    "mongolian": "Баруун салхи чиглүүлэгч итеркүүлэр",
+    "english": "RADIATORASSY"
+  },
+  {
+    "mongolian": "1-р арааны хумсан түгжээ",
+    "english": "PIN"
+  },
+  {
+    "mongolian": "Үндсэн туслахын дамжуулагч гол",
+    "english": "TRANSFER SHAFT"
+  },
+  {
+    "mongolian": "Кропны кастерын жийрэг",
+    "english": "TRANSMISSION GASKET"
+  },
+  {
+    "mongolian": "Их гэрлийн жийрэг резин",
+    "english": "HEADLAMP GASKET"
+  },
+  {
+    "mongolian": "Механик кропны ул араа",
+    "english": "COUNTER GEAR"
+  },
+  {
+    "mongolian": "Урд салхины шил",
+    "english": "WINDSHIELD GLASSS/A"
+  },
+  {
+    "mongolian": "Xөөх помп",
+    "english": "FUEL CAPASSY"
+  },
+  {
+    "mongolian": "тоормозы аппаратны хий авагчийн хуванцар таг",
+    "english": "BLEEDERPLUG CAP"
+  },
+  {
+    "mongolian": "Их гэрэл угаагчийн холбогч",
+    "english": "JOINT"
+  },
+  {
+    "mongolian": "Хойд хаалга том хүрээ резин",
+    "english": "BACKDR WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Урд жаазны босоо суурь",
+    "english": "HOOD BRACESUB-ASSY"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэн савны таг",
+    "english": "D CAP WASHER"
+  },
+  {
+    "mongolian": "Кузов өргөгчийн мэдрэгч",
+    "english": "SENSORSUB-ASSY"
+  },
+  {
+    "mongolian": "Сэрээ кропны №1",
+    "english": "FORK"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгчийн суурь",
+    "english": "SPARE CROSSMEMBER"
+  },
+  {
+    "mongolian": "Урд шилний бэхлэгч түгжээ",
+    "english": "WINDSHIELD STOPPER"
+  },
+  {
+    "mongolian": "Урд камер",
+    "english": "CAMERA ASSY"
+  },
+  {
+    "mongolian": "Сальник",
+    "english": "P/S GASKETKIT"
+  },
+  {
+    "mongolian": "Гишгүүр",
+    "english": "LH PANEL STEP"
+  },
+  {
+    "mongolian": "Xойд гупер гишгүүрийн тавцан",
+    "english": "RRBUMPER PLATE"
+  },
+  {
+    "mongolian": "Толин дээрх дохио",
+    "english": "SIDETURN LAMPASSY"
+  },
+  {
+    "mongolian": "Өндрийн гал хамгаалагч",
+    "english": "FUSIBLE BLOCKASSY"
+  },
+  {
+    "mongolian": "Хаалганы никель кант",
+    "english": "MOULDINGSUB-ASSY"
+  },
+  {
+    "mongolian": "Сэнс",
+    "english": "FAN"
+  },
+  {
+    "mongolian": "Гишгүүрийн дээд тавцан",
+    "english": "RH PLATE STEP"
+  },
+  {
+    "mongolian": "Толины таг",
+    "english": "OUTERMIRROR COVER"
+  },
+  {
+    "mongolian": "Кропны шарик",
+    "english": "80K BEARING BAL 35"
+  },
+  {
+    "mongolian": "1-р араа",
+    "english": "1ST GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Яндангийн жийрэг",
+    "english": "EXHAUSTPIPE GASKET"
+  },
+  {
+    "mongolian": "Редукторын хацар арааны шарик",
+    "english": "BEARINGRTP60.95K"
+  },
+  {
+    "mongolian": "Шил буулгагч ролькний рүзин",
+    "english": "ESCUTCHEON"
+  },
+  {
+    "mongolian": "Лебёдканы сальник жижиг",
+    "english": "OIL SEAL"
+  },
+  {
+    "mongolian": "Механик кропны араа",
+    "english": "HUB"
+  },
+  {
+    "mongolian": "Урд хормой",
+    "english": "FR SPOILERSUB-ASSY"
+  },
+  {
+    "mongolian": "Шил өргөгчийн товчлуур",
+    "english": "POWER SWITCHASSY"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэний сав",
+    "english": "HEADLAMP JAR"
+  },
+  {
+    "mongolian": "Ус шүршигчийн 3 бэлчир",
+    "english": "WASHER VALVE"
+  },
+  {
+    "mongolian": "Гармошик резин, дотор",
+    "english": "FR DRIVE BOOT KIT"
+  },
+  {
+    "mongolian": "Xаалганы шил",
+    "english": "FR GLASSSUB-ASSY"
+  },
+  {
+    "mongolian": "Гишгүүр бэхлэгч",
+    "english": "SIDE STAYSUB-ASSY"
+  },
+  {
+    "mongolian": "Хойд гэрлийн таг",
+    "english": "RRCOMBINATION LENS"
+  },
+  {
+    "mongolian": "Аккумуляторын клем",
+    "english": "JUNCTION TERMINAL"
+  },
+  {
+    "mongolian": "Агаарын хоолойн дээд таг",
+    "english": "AIR PRECLEANERASSY"
+  },
+  {
+    "mongolian": "Гар тормозны тэлэгч аппарат",
+    "english": "CYLINDER"
+  },
+  {
+    "mongolian": "Сэнсний хүрээ",
+    "english": "FAN SHROUD"
+  },
+  {
+    "mongolian": "Обудны таг",
+    "english": "COVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Их гэрлийн гупер тогтоогч",
+    "english": "FR REINFORCEMENT"
+  },
+  {
+    "mongolian": "Кропны радиатор хүрээ",
+    "english": "TRANSMISSION DUCT"
+  },
+  {
+    "mongolian": "Жолооны хүрд",
+    "english": "STEERING WHEELASSY"
+  },
+  {
+    "mongolian": "Урд дотор жааз доод",
+    "english": "FRCROSS MEMBER"
+  },
+  {
+    "mongolian": "Капотны амортизатор",
+    "english": "HOOD SUPPORTASSY"
+  },
+  {
+    "mongolian": "Хойд хагас голын тохируулагч гайк",
+    "english": "PLATE"
+  },
+  {
+    "mongolian": "Кондишний удирдлага",
+    "english": "AIR CONTROLASSY"
+  },
+  {
+    "mongolian": "Гуперийн цацруулагч",
+    "english": "RRFOG LENS&BODY"
+  },
+  {
+    "mongolian": "Кондишний радиаторын труп 2",
+    "english": "NO.1 TUBE LIQUID"
+  },
+  {
+    "mongolian": "Урд хормой баруун никел",
+    "english": "FRSPOILER GARNISH"
+  },
+  {
+    "mongolian": "Автомат кропны тосны шүүрны жийрэг",
+    "english": "O RING"
+  },
+  {
+    "mongolian": "Доод өндгөн тулгуурны резин",
+    "english": "LWRBALL COVER"
+  },
+  {
+    "mongolian": "Xаалга цонхны төв удирдлага",
+    "english": "MASTERSWITCHASSY"
+  },
+  {
+    "mongolian": "Серво мотор no.1",
+    "english": "SERVOSUB-ASSY"
+  },
+  {
+    "mongolian": "Радиаторын салхи чиглүүлэгч",
+    "english": "RADIATOR DEFLECTOR"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн агаар шүүгчний хайрцаг",
+    "english": "AIR CASESUB-ASSY"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгчийн цоож",
+    "english": "SPARE LOCKASSY"
+  },
+  {
+    "mongolian": "Багажны хаалга",
+    "english": "BACK PANELSUB-ASSY"
+  },
+  {
+    "mongolian": "Форсунка",
+    "english": "INJECTOR ASSY"
+  },
+  {
+    "mongolian": "Рулийн аппарат гармошканы жижиг хомут",
+    "english": "HOSE CLIP"
+  },
+  {
+    "mongolian": "Угийн тиаг",
+    "english": "END"
+  },
+  {
+    "mongolian": "Цилиндр, сальник",
+    "english": "WHEEL CYLINDERKIT"
+  },
+  {
+    "mongolian": "Урд гупер зүүн тал",
+    "english": "FR EXTENSION"
+  },
+  {
+    "mongolian": "Кроп шарик",
+    "english": "BEARINGRCY25.59F"
+  },
+  {
+    "mongolian": "Хойд багаж зүүн өргөгч",
+    "english": "POWER UNIT ASSY"
+  },
+  {
+    "mongolian": "Духны хавтас",
+    "english": "TIMING COVERASSY"
+  },
+  {
+    "mongolian": "Баруун итеркүүлэр суурь",
+    "english": "RADIATOR BRACKET"
+  },
+  {
+    "mongolian": "Автомат кроп тосны шүүр",
+    "english": "OIL STRAINERASSY"
+  },
+  {
+    "mongolian": "Багажны хаалганы дотор панель",
+    "english": "FRDOOR PANELASSY"
+  },
+  {
+    "mongolian": "Урд цапны шарик",
+    "english": "HUB&BEARINGASSY"
+  },
+  {
+    "mongolian": "Хойд босоо тэнцүүлэгч",
+    "english": "RR LINKASSY"
+  },
+  {
+    "mongolian": "Хойд гупер арын хөөсөнцөр хамгаалалт",
+    "english": "RRBUMPER ABSORBER"
+  },
+  {
+    "mongolian": "Релей",
+    "english": "RELAY"
+  },
+  {
+    "mongolian": "Дотор тааз",
+    "english": "HEADLININGASSY"
+  },
+  {
+    "mongolian": "Салхины шилний мэдрэгчийн наалт",
+    "english": "RAINSENSOR TAPE"
+  },
+  {
+    "mongolian": "LC300",
+    "english": "FR BUMPER BRACKET"
+  },
+  {
+    "mongolian": "Ослын дэрний компьютер",
+    "english": "AIRBAG SENSORASSY"
+  },
+  {
+    "mongolian": "Багаж хаалга хязгаарлагч зүүн",
+    "english": "BACK CHECKASSY"
+  },
+  {
+    "mongolian": "Хойд хормойны никель",
+    "english": "EXTENSION SUB-ASSY"
+  },
+  {
+    "mongolian": "Хаалганы эмжээр",
+    "english": "BLACKOUT TAPE"
+  },
+  {
+    "mongolian": "Тахир гол",
+    "english": "CRANKSHAFT"
+  },
+  {
+    "mongolian": "Хойд цацруулагч",
+    "english": "REFLECTOR ASSY"
+  },
+  {
+    "mongolian": "Гурван бэлчир",
+    "english": "WATER PIPE"
+  },
+  {
+    "mongolian": "Хаалганы цоожны бэхлэгч түгжээ",
+    "english": "SNAP"
+  },
+  {
+    "mongolian": "Урд гуперын гэрлийн таг баруун",
+    "english": "RH COVER FOGLAMP"
+  },
+  {
+    "mongolian": "Түлхүүр",
+    "english": "TRANSMITTER"
+  },
+  {
+    "mongolian": "Урд шилний булан резин",
+    "english": "FRWINDOW MOULDING"
+  },
+  {
+    "mongolian": "Дээд өндгөн тулгуурны резин",
+    "english": "UPRBALLJOINT COVER"
+  },
+  {
+    "mongolian": "Зүүн толь",
+    "english": "OUTER MIRROR ASSY"
+  },
+  {
+    "mongolian": "70 кропны шаариг",
+    "english": "85K BEARING RTP 35"
+  },
+  {
+    "mongolian": "Тормозны аппаратны дуу дарагч төмөр",
+    "english": "RRPAD PLATE"
+  },
+  {
+    "mongolian": "Туслах кропны сальник",
+    "english": "TYPE T OIL SEAL"
+  },
+  {
+    "mongolian": "Консны доод аппарат",
+    "english": "CYLINDERASSY"
+  },
+  {
+    "mongolian": "Их гэрлийн тогтоогч",
+    "english": "A BRACKET HEADLAMP"
+  },
+  {
+    "mongolian": "Багажны доод хаалга",
+    "english": "TAIL PANELSUB-ASSY"
+  },
+  {
+    "mongolian": "Манангийн гэрлийн тогтоогч",
+    "english": "FOGLAMP BRACKET"
+  },
+  {
+    "mongolian": "Урд жааз",
+    "english": "FLANGESUB-ASSY"
+  },
+  {
+    "mongolian": "Усны темпратурын дадьчик",
+    "english": "WATER GAGEASSY"
+  },
+  {
+    "mongolian": "Усны сав",
+    "english": "RESERVETANKASSY"
+  },
+  {
+    "mongolian": "Урд сетик нүүр",
+    "english": "GRILLE SUB-ASSY"
+  },
+  {
+    "mongolian": "Жаазны урд зүүн салхи чиглүүлэгч",
+    "english": "RADIATORAIR GUIDE"
+  },
+  {
+    "mongolian": "Кондишний радиатор",
+    "english": "CONDENSERASSY"
+  },
+  {
+    "mongolian": "Салоны хөргөлтийн тохируулагч",
+    "english": "AIR AMPLIFIERASSY"
+  },
+  {
+    "mongolian": "Хойд чирэгч",
+    "english": "PINTLE HOOKASSY"
+  },
+  {
+    "mongolian": "Дугуйн хошууны таг",
+    "english": "TIREVALVE CAP"
+  },
+  {
+    "mongolian": "Хаалганы шилний никель эмжээр",
+    "english": "FR MOULDINGASSY"
+  },
+  {
+    "mongolian": "Парны мотор",
+    "english": "MOTOR"
+  },
+  {
+    "mongolian": "Урд гуперын гэрлийн таг зүүн",
+    "english": "LH COVER FOGLAMP"
+  },
+  {
+    "mongolian": "Хойд шил арчигч",
+    "english": "RRWIPER ARM"
+  },
+  {
+    "mongolian": "Аккумляторын клем",
+    "english": "TERMINALASSY"
+  },
+  {
+    "mongolian": "Лебёдканы харандаа гол",
+    "english": "WINCHINPUT SHAFT"
+  },
+  {
+    "mongolian": "Кузов өргөгчийн шингэний труб",
+    "english": "HEIGHTCONTROL TUBE"
+  },
+  {
+    "mongolian": "Шил арчагчийн шингэний сав",
+    "english": "A JAR WASHER"
+  },
+  {
+    "mongolian": "Зурвас ачааны таг",
+    "english": "ROOFRACK COVER"
+  },
+  {
+    "mongolian": "Хойд багажны хаалга дээрх гэрэл",
+    "english": "LH LAMPASSY RR"
+  },
+  {
+    "mongolian": "Xойд гуперын чирэгчийн хүрээ",
+    "english": "RRSTEP COVER"
+  },
+  {
+    "mongolian": "Гэрлийн ламп",
+    "english": "1. BULB"
+  },
+  {
+    "mongolian": "Чиглүүлэгч суурь",
+    "english": "GUIDE PLATE"
+  },
+  {
+    "mongolian": "Xаалганы нугас",
+    "english": "FRDOOR HINGEASSY"
+  },
+  {
+    "mongolian": "Саран түгжээ",
+    "english": "E RING"
+  },
+  {
+    "mongolian": "Тосны насос сальник",
+    "english": "OILPUMP GASKET"
+  },
+  {
+    "mongolian": "Суудал халаагчийн компьютер",
+    "english": "CONTROLSUB-ASSY"
+  },
+  {
+    "mongolian": "Хөгжимний кноп",
+    "english": "AUDIOMODULE KNOB"
+  },
+  {
+    "mongolian": "LX600",
+    "english": "LAMPASSY"
+  },
+  {
+    "mongolian": "Хөгжимны компьютер",
+    "english": "EQUALIZER ASSY"
+  },
+  {
+    "mongolian": "Кропны радиатор",
+    "english": "OIL COOLERASSY"
+  },
+  {
+    "mongolian": "Баруун их гэрэл өсгөгч",
+    "english": "COMPUTERSUB-ASSY"
+  },
+  {
+    "mongolian": "Гэрэл бэхлэгч хуванцар түгжээ",
+    "english": "RR GUIDE"
+  },
+  {
+    "mongolian": "Аккумляторын доод суурь",
+    "english": "CARRIERSUB-ASSY"
+  },
+  {
+    "mongolian": "5-арааны завсарлагч шайб кропны",
+    "english": "5THGEAR WASHER"
+  },
+  {
+    "mongolian": "Банкны хөвүүр",
+    "english": "FUEL GAGE ASSY"
+  },
+  {
+    "mongolian": "Жаазны урд салхи чиглүүлэгч зүүн",
+    "english": "RADIATORSIDE PLATE"
+  },
+  {
+    "mongolian": "Капотны тохируулагч резин",
+    "english": "RR BUMPER HOOD"
+  },
+  {
+    "mongolian": "Цаф зүүн",
+    "english": "KNUCKLESUB-ASSY"
+  },
+  {
+    "mongolian": "Лүүкний жийргэвч",
+    "english": "SLIDING GARNISH"
+  },
+  {
+    "mongolian": "Баруун подкрылоны үзүүрийн хаалт",
+    "english": "FR WHEEL PAD"
+  },
+  {
+    "mongolian": "Хойд бичиг ZX",
+    "english": "RRBODYNAME PLATE"
+  },
+  {
+    "mongolian": "Денамны ремень чангалагч",
+    "english": "TENSIONER ASSY"
+  },
+  {
+    "mongolian": "Термостатны жийрэг резин",
+    "english": "THERMOSTAT GASKET"
+  },
+  {
+    "mongolian": "Агаарын босоо хоолой",
+    "english": "COOLAIR DUCT"
+  },
+  {
+    "mongolian": "Mеханик кропны араа",
+    "english": "REVERSE GEARSET"
+  },
+  {
+    "mongolian": "Xойд тоормосны аппаратны сальник резин",
+    "english": "WHEEL CUPKIT"
+  },
+  {
+    "mongolian": "Усны радиатор",
+    "english": "RADIATORASSY"
+  },
+  {
+    "mongolian": "Ухрах гэрлийн дадьчик",
+    "english": "BACK-UP SWITCHASSY"
+  },
+  {
+    "mongolian": "Механик кропны 1-р гол шариг",
+    "english": "BEARINGNDL26.37N"
+  },
+  {
+    "mongolian": "Крылоны шил",
+    "english": "WINDOWASSY"
+  },
+  {
+    "mongolian": "Вкладыш",
+    "english": "CAMSHAFT BEARING"
+  },
+  {
+    "mongolian": "Нөөц дугуй онгойлгогч таг",
+    "english": "JACKBOXHOLE COVER"
+  },
+  {
+    "mongolian": "Хаалганы жижиг шил",
+    "english": "RRDOOR GLASS"
+  },
+  {
+    "mongolian": "Хаалганы шил",
+    "english": "LH GLASS RRDOOR"
+  },
+  {
+    "mongolian": "Яндан мэдрэгч",
+    "english": "OXYGEN SENSOR"
+  },
+  {
+    "mongolian": "Шил арчигчийн мотор",
+    "english": "MOTOR&PUMPASSY"
+  },
+  {
+    "mongolian": "Наклад түгжээ төмөр",
+    "english": "DISC FITTING KIT"
+  },
+  {
+    "mongolian": "Урд наклад хавтас төмөр",
+    "english": "ANTI SHIM KIT"
+  },
+  {
+    "mongolian": "Гурван бул",
+    "english": "FRAXLE JOINTSET"
+  },
+  {
+    "mongolian": "Хойд амортизаторын резин No2",
+    "english": "RR CUSHIONSUB-ASSY"
+  },
+  {
+    "mongolian": "Амортизаторын дээд тульк",
+    "english": "RR BRACKETSUB-ASSY"
+  },
+  {
+    "mongolian": "Кузов өргөгчийн трупны шайб",
+    "english": "HEIGHT GASKET"
+  },
+  {
+    "mongolian": "Хойд тэвшний хаалга",
+    "english": "RRBODY GATEASSY"
+  },
+  {
+    "mongolian": "Кондишний радиаторын труп 1",
+    "english": "TUBE&ACCESSORY"
+  },
+  {
+    "mongolian": "Шил арчигчийн боолтны таг",
+    "english": "WIPERARMHEAD CAP"
+  },
+  {
+    "mongolian": "Чиглүүлэгч араа кропны",
+    "english": "TRANSMISSION HUB"
+  },
+  {
+    "mongolian": "Копудны ус цацагч",
+    "english": "FRWASHER NOZZLE"
+  },
+  {
+    "mongolian": "Суудлын бүс",
+    "english": "FR BELTASSYKIT"
+  },
+  {
+    "mongolian": "Агаарын хоолойн тогтоогч",
+    "english": "AIR BRACKET"
+  },
+  {
+    "mongolian": "Агаарын хоолойн жийргэвч",
+    "english": "COOLAIR RETAINER"
+  },
+  {
+    "mongolian": "Агаарын хоолойн тогтоогч суурь",
+    "english": "BRACKETSUB-ASSY"
+  },
+  {
+    "mongolian": "Усны мэдрэгч",
+    "english": "WATERTEMPER SENSOR"
+  },
+  {
+    "mongolian": "Тормозны аппаратны поршен",
+    "english": "DISCBRAKE PISTON"
+  },
+  {
+    "mongolian": "Камер",
+    "english": "TV CAMERAASSY"
+  },
+  {
+    "mongolian": "Хойд гупер суурь тогтоогч",
+    "english": "RR REINFORCEMENT"
+  },
+  {
+    "mongolian": "Наклад даруулга төмөр",
+    "english": "ANTI-RATTLE SPRING"
+  },
+  {
+    "mongolian": "Тамхины асаагуурын суурь",
+    "english": "POWER SOCKETASSY"
+  },
+  {
+    "mongolian": "Агаар шүүгчний хайрцаг",
+    "english": "AIR CLEANERASSY"
+  },
+  {
+    "mongolian": "Хойд цацруулагчийн гэрлийн потрон",
+    "english": "SOCKETPLUG"
+  },
+  {
+    "mongolian": "Рулийн аппарат гармушканы том хомут",
+    "english": "HOSE CLAMP"
+  },
+  {
+    "mongolian": "Гал хамгаалагч хайрцаг таг",
+    "english": "RELAYBLOCK COVER"
+  },
+  {
+    "mongolian": "Хойд гуперын баруун бэхлэгч",
+    "english": "RR BUMPER BRACKET"
+  },
+  {
+    "mongolian": "Xойд гуперын хуванцар түгжээ",
+    "english": "RRBUMPER RETAINER"
+  },
+  {
+    "mongolian": "Гидрийн банк",
+    "english": "OIL RESERVOIRASSY"
+  },
+  {
+    "mongolian": "Таван бул баруун урд",
+    "english": "FR SHAFTASSY"
+  },
+  {
+    "mongolian": "Их гэрлийн шил",
+    "english": "RH LENS HEADLAMP"
+  },
+  {
+    "mongolian": "Хойд шаварын хаалт баруун",
+    "english": "QUARTER MUDGUARD"
+  },
+  {
+    "mongolian": "Борооны хаалт",
+    "english": "WINDOW VISORSET"
+  },
+  {
+    "mongolian": "Ухрах араа кропны",
+    "english": "REVERSE GEAR"
+  },
+  {
+    "mongolian": "Багажны цахилгаан амортизатор",
+    "english": "POWER UNITASSY"
+  },
+  {
+    "mongolian": "Урд шанаа",
+    "english": "FR APRONSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд гуперийн арын хөнгөн цагаан хамгаалалт",
+    "english": "REINFORCEMENT"
+  },
+  {
+    "mongolian": "Нарны хаалтны түгжээ",
+    "english": "VISOR HOLDER"
+  },
+  {
+    "mongolian": "Багаж 18",
+    "english": "CLAMP TOOL"
+  },
+  {
+    "mongolian": "Хажуу хормой",
+    "english": "BODY MOULDINGASSY"
+  },
+  {
+    "mongolian": "Суудлын нугасны тохируулагч",
+    "english": "ADJUSTER"
+  },
+  {
+    "mongolian": "Xойд барбан",
+    "english": "HUB&BRAKEDRUM"
+  },
+  {
+    "mongolian": "Сэнсны ремень",
+    "english": "V-RIBBED BELT"
+  },
+  {
+    "mongolian": "Баруун урд чирэгч таг",
+    "english": "FRBUMPERARM COVER"
+  },
+  {
+    "mongolian": "Агаарын хоолой залгаа",
+    "english": "CONNECTOR SUB-ASSY"
+  },
+  {
+    "mongolian": "Багаж хаалга кант",
+    "english": "GARNISHSUB-ASSY"
+  },
+  {
+    "mongolian": "Зурвас ачааны зүүн дунд таг",
+    "english": "ROOF RACK COVER"
+  },
+  {
+    "mongolian": "Автомат кроп",
+    "english": "TRANSMISSION ASSY"
+  },
+  {
+    "mongolian": "копудны цоож",
+    "english": "HOOD LOCKASSY"
+  },
+  {
+    "mongolian": "Хаалганы хөмсөг",
+    "english": "RR EXTENSIONS/A"
+  },
+  {
+    "mongolian": "Xурд хэмжигчийн шпонк",
+    "english": "SPEEDOMETER KEY"
+  },
+  {
+    "mongolian": "Яндан",
+    "english": "HIGHRESPONSEMUFFLER"
+  },
+  {
+    "mongolian": "Багажны хаалганы эмблем",
+    "english": "BACKDOOREMBLEM"
+  },
+  {
+    "mongolian": "Урд гуперын доод хормой",
+    "english": "FRONTBUMPERGARNISH"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн асаалтын товч",
+    "english": "PUSHSTARTSWITCH"
+  },
+  {
+    "mongolian": "Урд сеткин нүүрний эмблем",
+    "english": "FRONTGRILLEMBLEM"
+  },
+  {
+    "mongolian": "Салоны карбон дүб",
+    "english": "INTERIORPANELSET"
+  },
+  {
+    "mongolian": "Хойд гуперийн доод хормой",
+    "english": "REARBUMPERGARNISH"
+  },
+  {
+    "mongolian": "Түлшний шүүрний гэр",
+    "english": "FUELFILTER CASE"
+  },
+  {
+    "mongolian": "SST-тусгай багаж",
+    "english": "WRENCH"
+  },
+  {
+    "mongolian": "Ослын дэр хийлэгч",
+    "english": "AIRBAGASSYKIT"
+  },
+  {
+    "mongolian": "Оруулах хоолой",
+    "english": "AIRCLEANER INLET"
+  },
+  {
+    "mongolian": "Хаалганы жижиг бариул таг",
+    "english": "RRDOOR COVER"
+  },
+  {
+    "mongolian": "Хойд барбан хамгаалагч резин",
+    "english": "ADJ.HOLE PLUG"
+  },
+  {
+    "mongolian": "Урд тэнцвэржүүлэгчийн цлиндр",
+    "english": "FR CYLINDER"
+  },
+  {
+    "mongolian": "Банкны банк түгжээ",
+    "english": "FUEL SPRINGASSY"
+  },
+  {
+    "mongolian": "Доод өндгөн тулгуур",
+    "english": "LWRBALL JOINTASSY"
+  },
+  {
+    "mongolian": "Рулийн чагтан гол",
+    "english": "STEERING SHAFTASSY"
+  },
+  {
+    "mongolian": "Стартер шоток",
+    "english": "HOLDER ASSY"
+  },
+  {
+    "mongolian": "Толины хавтас",
+    "english": "MIRROROUTERRR"
+  },
+  {
+    "mongolian": "Яндан хойд",
+    "english": "EXHAUST PIPEASSY"
+  },
+  {
+    "mongolian": "Хаалганы гишгүүрийн гэрэл",
+    "english": "REFLEX REFLECTOR"
+  },
+  {
+    "mongolian": "Хөргөлтийн радиаторын доод шланг",
+    "english": "NO.2 HOSE RADIATOR"
+  },
+  {
+    "mongolian": "Хойд багаж резин",
+    "english": "BACK DOOR CUSHION"
+  },
+  {
+    "mongolian": "Суудлын зам",
+    "english": "FRSEAT TRACKASSY"
+  },
+  {
+    "mongolian": "Багаж 15",
+    "english": "PULLER"
+  },
+  {
+    "mongolian": "Хавтас толь LH",
+    "english": "LH MIRROROUTER"
+  },
+  {
+    "mongolian": "Гал хамгаалагч хайрцаг үүр",
+    "english": "ENGINEROOM BLOCK"
+  },
+  {
+    "mongolian": "Урд дотор салон",
+    "english": "INSTRUMENT PADASSY"
+  },
+  {
+    "mongolian": "Xөдөлгүүрийн компьютер",
+    "english": "ENGINE COMPUTER"
+  },
+  {
+    "mongolian": "Чиглүүлэгч дамар",
+    "english": "IDLE PULLEYASSY"
+  },
+  {
+    "mongolian": "Хөгжим өсгөгч",
+    "english": "AMPLIFIERASSY"
+  },
+  {
+    "mongolian": "Хаалганы дунд нугас",
+    "english": "SLIDE HINGEASSY"
+  },
+  {
+    "mongolian": "Дугаарын гэрлийн линз",
+    "english": "LENS&COVER"
+  },
+  {
+    "mongolian": "Амортизаторын втулк",
+    "english": "ACTUATOR BRACKET"
+  },
+  {
+    "mongolian": "Туслах кропны өндөр хурдны араа",
+    "english": "T/F GEARSUB-ASSY"
+  },
+  {
+    "mongolian": "Хойд подкрыло",
+    "english": "RRWHEEL LINER"
+  },
+  {
+    "mongolian": "Аккумляторын даруулга төмөр",
+    "english": "CLAMPSUB-ASSY"
+  },
+  {
+    "mongolian": "Тормозны дээд аппаратны жийрэг",
+    "english": "BRAKE PISTONKIT"
+  },
+  {
+    "mongolian": "Бахь",
+    "english": "PLIERS"
+  },
+  {
+    "mongolian": "Капотны зөөлөвч",
+    "english": "HOOD INSULATOR"
+  },
+  {
+    "mongolian": "Урд жаазны суурины чих",
+    "english": "HEADLAMP BRACKET"
+  },
+  {
+    "mongolian": "Урд гуперийн сетки лёбодкатай",
+    "english": "LH GRILLE RADIATOR"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгч түгжээ",
+    "english": "CYLINDER&KEYSET"
+  },
+  {
+    "mongolian": "Редукторын бөглөө",
+    "english": "SCREW PLUG"
+  },
+  {
+    "mongolian": "Чирэгч дээд таг",
+    "english": "NO.2 COVER RR STEP"
+  },
+  {
+    "mongolian": "Урд сеткин нүүрний дээд никель",
+    "english": "RADIATOR MOULDING"
+  },
+  {
+    "mongolian": "Гишгүүрийн хүрээ",
+    "english": "RH COVER SIDESTEP"
+  },
+  {
+    "mongolian": "Хаалганы зөөлөвч",
+    "english": "FRDOOR CUSHION"
+  },
+  {
+    "mongolian": "Цахилгаан релейн самбар зүүн",
+    "english": "PASSENGER BLOCK"
+  },
+  {
+    "mongolian": "Урд хөмсөгний жийргэвч резин",
+    "english": "FRWHEEL PAD"
+  },
+  {
+    "mongolian": "Босоо тэнцүүлэгч",
+    "english": "FR LINK ASSY"
+  },
+  {
+    "mongolian": "Шарнерийн гол",
+    "english": "STEERINGTIE ROD"
+  },
+  {
+    "mongolian": "Хойд багажны панел",
+    "english": "BACK PANELASSY"
+  },
+  {
+    "mongolian": "Хойд тамхины асаагуур",
+    "english": "POWEROUTLET COVER"
+  },
+  {
+    "mongolian": "Хойд гуперийн доод хаалт",
+    "english": "LUGGAGE PROTECTOR"
+  },
+  {
+    "mongolian": "Багаж бичиглэл",
+    "english": "RR BODY NAME PLATE"
+  },
+  {
+    "mongolian": "Хойд гуперийн никель",
+    "english": "RR EXTENSION"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод төмөр хаалт",
+    "english": "SKIDPLATE"
+  },
+  {
+    "mongolian": "Никель тавцан",
+    "english": "RR BUMPER GARNISH"
+  },
+  {
+    "mongolian": "Сэнсний суурь",
+    "english": "FAN BRACKETASSY"
+  },
+  {
+    "mongolian": "Тусгай багаж",
+    "english": "ATTACHMENTK"
+  },
+  {
+    "mongolian": "Хойд крыло",
+    "english": "LH PANEL QUARTER"
+  },
+  {
+    "mongolian": "Урд хормойны никель",
+    "english": "FR GARNISH"
+  },
+  {
+    "mongolian": "LX570",
+    "english": "RADIATOR MOULDING"
+  },
+  {
+    "mongolian": "Кондишний радиаторын сэнс",
+    "english": "BLOWERASSY"
+  },
+  {
+    "mongolian": "Гар тоормозны мэдрэгч",
+    "english": "SWITCHASSY"
+  },
+  {
+    "mongolian": "Аккумляторын бэхлэгч дэгээ",
+    "english": "BATTERYCLAMP BOLT"
+  },
+  {
+    "mongolian": "Багажны хаалганы шил",
+    "english": "RH GLASS BACKDOOR"
+  },
+  {
+    "mongolian": "Цан төмөр",
+    "english": "BRACKET SUB-ASSY"
+  },
+  {
+    "mongolian": "Тормозны аппаратны хий авагч клалап",
+    "english": "BLEEDER PLUG"
+  },
+  {
+    "mongolian": "Хаалганы шилний босоо эмжээр",
+    "english": "FRDOOR MOULDING"
+  },
+  {
+    "mongolian": "Гишгүүр доод суурь тогтоогч",
+    "english": "STEP GUSSET"
+  },
+  {
+    "mongolian": "Рулийн шарнер хөндлөн гол",
+    "english": "STEERINGRELAY ROD"
+  },
+  {
+    "mongolian": "Урд хаалга дотор булан",
+    "english": "DOORFRAME GARNISH"
+  },
+  {
+    "mongolian": "Хөргөлтийн хоолой",
+    "english": "WATER HOSEASSY"
+  },
+  {
+    "mongolian": "Хөшгин ослын дэр",
+    "english": "AIRBAGASSY"
+  },
+  {
+    "mongolian": "амортизаторын гадна араамны хамгаалалт",
+    "english": "FENDERAPRON SEAL"
+  },
+  {
+    "mongolian": "Банкны хоолой",
+    "english": "FUELTANKTO HOSE"
+  },
+  {
+    "mongolian": "Баруун толь хавтас",
+    "english": "RH MIRROROUTER"
+  },
+  {
+    "mongolian": "Нэмэлт хөмсөг",
+    "english": "OVERFENDERSET"
+  },
+  {
+    "mongolian": "Багаж 1",
+    "english": "INJECTION TOOLSET"
+  },
+  {
+    "mongolian": "Зүүн хойд агаарын хавхлага",
+    "english": "DUCTSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд темпертурын мэдрэгч",
+    "english": "THERMISTORASSY"
+  },
+  {
+    "mongolian": "Зүүн урд хаалга бариул том",
+    "english": "FR HANDLEASSY"
+  },
+  {
+    "mongolian": "Зүүн хойд хаалга бариул том",
+    "english": "DOOR HANDLE"
+  },
+  {
+    "mongolian": "Рулийн гидрийн банкны таг",
+    "english": "CAPSUB-ASSY"
+  },
+  {
+    "mongolian": "Багажны хаалга цоож",
+    "english": "WOR LOCKASSY"
+  },
+  {
+    "mongolian": "Гэрлийн залгуур",
+    "english": "CONNECTOR HOUSING"
+  },
+  {
+    "mongolian": "Хойд гуперийн нэмэлт хормой",
+    "english": "RRBUMPER GUARD"
+  },
+  {
+    "mongolian": "Тормозны аппаратны мэдрэгч төмөр",
+    "english": "PLATE"
+  },
+  {
+    "mongolian": "Гуперийн никель тавцан",
+    "english": "RR PLATESUB-ASSY"
+  },
+  {
+    "mongolian": "Урд салхины шил даруулга резин",
+    "english": "WINDOW GLASS DAM"
+  },
+  {
+    "mongolian": "Хойд гуперын доод эмжээр",
+    "english": "RR BUMPER RETAINER"
+  },
+  {
+    "mongolian": "Суудал тохируулагчийн кноп",
+    "english": "POWER SEAT KNOB"
+  },
+  {
+    "mongolian": "Залгуур",
+    "english": "WIREASSYKIT"
+  },
+  {
+    "mongolian": "Термостатны гэр",
+    "english": "WATERINLET HOUSING"
+  },
+  {
+    "mongolian": "Хаалганы гадна бариулын жийрэг резин",
+    "english": "FRDOOROUTSIDE PAD"
+  },
+  {
+    "mongolian": "Манангийн гэрлийн никель хүрээ",
+    "english": "FOGLAMP BRACKET"
+  },
+  {
+    "mongolian": "Гишгүүрийн тавцан",
+    "english": "RH PLATE SIDESTEP"
+  },
+  {
+    "mongolian": "Баруун хойд хаалга шилний босоо даруулга",
+    "english": "RR BAR SUB-ASSY"
+  },
+  {
+    "mongolian": "Баруун цап",
+    "english": "STEERING KNUCKLE"
+  },
+  {
+    "mongolian": "Лап резин голын пайлц",
+    "english": "CABMOUNTING HOLDER"
+  },
+  {
+    "mongolian": "Хойд хаалганы голын гэрэл",
+    "english": "STOPCTR LAMPASSY"
+  },
+  {
+    "mongolian": "Хойд гэрэл механизм",
+    "english": "RR SOCKET&WIRE"
+  },
+  {
+    "mongolian": "Крылоны зөөлөвч",
+    "english": "FR SEALSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд панель",
+    "english": "PADSUB-ASSY"
+  },
+  {
+    "mongolian": "Зүүн хойд гэрэлийн таг",
+    "english": "RR COVER"
+  },
+  {
+    "mongolian": "Хойд салхи зүсэгч",
+    "english": "RR SPOILERSET"
+  },
+  {
+    "mongolian": "Хойд тэлдэг наклад тохируулагч гол",
+    "english": "PARKING BRAKE WIRE"
+  },
+  {
+    "mongolian": "Түлхүүр 8-мм",
+    "english": "SPANNER"
+  },
+  {
+    "mongolian": "Зүүн гишгүүр хүрээ",
+    "english": "LH COVER SIDESTEP"
+  },
+  {
+    "mongolian": "USB оролт",
+    "english": "STEREO ADAPTERASSY"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод касчер",
+    "english": "OIL PAN SUB-ASSY"
+  },
+  {
+    "mongolian": "Түлхүүрийн компьютер",
+    "english": "SMART COMPUTERASSY"
+  },
+  {
+    "mongolian": "Нүүрсэн шүүр",
+    "english": "CANISTERASSY"
+  },
+  {
+    "mongolian": "Аппаратур",
+    "english": "SUPPLY PUMPASSY"
+  },
+  {
+    "mongolian": "Компьютер",
+    "english": "ENGINE COMPUTER"
+  },
+  {
+    "mongolian": "Дотор бариул",
+    "english": "ASSIST GRIP ASSY"
+  },
+  {
+    "mongolian": "Шланг, усны радиаторын",
+    "english": "HOSESUB-ASSY"
+  },
+  {
+    "mongolian": "Хаалганы дотор эмжээр",
+    "english": "RRDOOR PROTECTOR"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод хаалт",
+    "english": "ENGINE COVER ASSY"
+  },
+  {
+    "mongolian": "Зүүн урд хаалга speaker",
+    "english": "RADIO SPEAKER ASSY"
+  },
+  {
+    "mongolian": "Ухрахын гэрэл",
+    "english": "BACK-UP LENS&BODY"
+  },
+  {
+    "mongolian": "Урд хормойн голын никель",
+    "english": "FRSPOILER GARNISH"
+  },
+  {
+    "mongolian": "Гар тормозны актуатор LX570 эд анги",
+    "english": "ACTUATORASSY"
+  },
+  {
+    "mongolian": "Хөдөлгүүр доод хаалт",
+    "english": "COVER SUB-ASSY"
+  },
+  {
+    "mongolian": "Тормозны аппаратны жийрэг",
+    "english": "BRAKE PLUGSUB-ASSY"
+  },
+  {
+    "mongolian": "Речакны толгой",
+    "english": "SHIFT KNOBSUB-ASSY"
+  },
+  {
+    "mongolian": "Голын толь таг",
+    "english": "INNER RR VIEW COVER"
+  },
+  {
+    "mongolian": "Гупер манангийн гэрэл хүрээ",
+    "english": "RADIATOR GARNISH"
+  },
+  {
+    "mongolian": "ТВ удирьлага",
+    "english": "CONTROLLER ASSY"
+  },
+  {
+    "mongolian": "Хаалганы никель эмжээр",
+    "english": "FRDOOR STRIPE"
+  },
+  {
+    "mongolian": "Зүүн урд хаалга босоо кант",
+    "english": "FRDOOR STRIPE"
+  },
+  {
+    "mongolian": "Рулын чагт",
+    "english": "STEERING SHAFT ASSY"
+  },
+  {
+    "mongolian": "Отвертка",
+    "english": "DRIVER"
+  },
+  {
+    "mongolian": "Багажны хаалганы нугас",
+    "english": "TAIL HINGEASSY"
+  },
+  {
+    "mongolian": "Яндангийн дүүжин резин №3",
+    "english": "EXHAUST SUPPORT"
+  },
+  {
+    "mongolian": "Утаа мэдрэгч",
+    "english": "SMOG SENSOR"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгчийн түгжээ",
+    "english": "SPARE STOPPERS/A"
+  },
+  {
+    "mongolian": "Борхов хүрээ",
+    "english": "RRBUMPERHOLE COVER"
+  },
+  {
+    "mongolian": "доод өндөг",
+    "english": "LWRBALL JOINTASSY"
+  },
+  {
+    "mongolian": "Багажны автомат хаалганы мэдрэгч",
+    "english": "POWER SENSORASSY"
+  },
+  {
+    "mongolian": "Мэдрэгчийн компютер",
+    "english": "COMPUTER"
+  },
+  {
+    "mongolian": "Их гэрэл шил баруун",
+    "english": "LENSSUB-ASSY"
+  },
+  {
+    "mongolian": "Нөөц дугуйны камерын таг,мөнгөлөг",
+    "english": "SPAREWHEEL PAD"
+  },
+  {
+    "mongolian": "Баруун хойд крыло эмжээр жижиг",
+    "english": "QUARTER MOULDING"
+  },
+  {
+    "mongolian": "Бензин насосны тусгаарлагч",
+    "english": "FUELPUMP SPACER"
+  },
+  {
+    "mongolian": "Суудал халаагчийн удирдлага",
+    "english": "SEATHEATER SWITCH"
+  },
+  {
+    "mongolian": "Хаалганы гадна бариулын жижиг таг",
+    "english": "FRDOOR COVER"
+  },
+  {
+    "mongolian": "Нудраган гол араа",
+    "english": "CAMSHAFT GEAR ASSY"
+  },
+  {
+    "mongolian": "Xөдөлгүүрийн доод хуванцар хаалт",
+    "english": "ENGINE COVERASSY"
+  },
+  {
+    "mongolian": "Гадна дээвэр",
+    "english": "ROOF PANELSUB-ASSY"
+  },
+  {
+    "mongolian": "Зорчигчийн урд хайрцагны тогтоогч",
+    "english": "STOPPERSUB-ASSY"
+  },
+  {
+    "mongolian": "Гал хамгаалагч сугалагч хавчаар",
+    "english": "FUSE PULLER"
+  },
+  {
+    "mongolian": "Радиатор доод таг",
+    "english": "RADIATORDRAIN COCK"
+  },
+  {
+    "mongolian": "Бензиний трүп",
+    "english": "FUEL TUBESUB-ASSY"
+  },
+  {
+    "mongolian": "Капотны тулгуурын бэхлэгч",
+    "english": "HOLDER"
+  },
+  {
+    "mongolian": "Духны том гинж",
+    "english": "CHAINSUB-ASSY"
+  },
+  {
+    "mongolian": "Духны гинж зам тогтоогч",
+    "english": "TIMINGCHAIN GUIDE"
+  },
+  {
+    "mongolian": "Банк туслах",
+    "english": "FUEL TANK SUB-ASSY"
+  },
+  {
+    "mongolian": "Суудлын тросс",
+    "english": "RECL LEVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Хойд чирэгчийн суурь төмөр",
+    "english": "PINTLEHOOK BRACKET"
+  },
+  {
+    "mongolian": "Урд хацар зүрх араа",
+    "english": "FINALGEARKIT"
+  },
+  {
+    "mongolian": "Банкны тагны троссны бэхлэгч",
+    "english": "FUEL RETAINER"
+  },
+  {
+    "mongolian": "Номерийн суурь никель хүрээ",
+    "english": "BACKDOOR GARNISH"
+  },
+  {
+    "mongolian": "Гал хамгаалагчын хайрцаг дээд таг",
+    "english": "RELAYBLOCK COVER"
+  },
+  {
+    "mongolian": "Тосны төвшин хэмжигч",
+    "english": "OIL GAGESUB-ASSY"
+  },
+  {
+    "mongolian": "Дээврийн залаа",
+    "english": "ANTENNA COVERKIT"
+  },
+  {
+    "mongolian": "Антенна",
+    "english": "ANTENNAASSY"
+  },
+  {
+    "mongolian": "Рулийн аппаратны гол",
+    "english": "CROSS SHAFT"
+  },
+  {
+    "mongolian": "Гар тормозны тохируулагч",
+    "english": "LEVER"
+  },
+  {
+    "mongolian": "Зайн мэдрэгчийн утас",
+    "english": "ENGINE WIREASSY"
+  },
+  {
+    "mongolian": "Түлхүүр танигчийн компьютер",
+    "english": "COMPUTER"
+  },
+  {
+    "mongolian": "Асаалтын компьютер",
+    "english": "REMOTE COMPUTERASSY"
+  },
+  {
+    "mongolian": "Голын хайрцаг тусгаарлагч",
+    "english": "INSTRUMENT SUPPORT"
+  },
+  {
+    "mongolian": "Хаалганы рольк",
+    "english": "SLIDE BASESUB-ASSY"
+  },
+  {
+    "mongolian": "Бороо мэдрэгчийн таг",
+    "english": "RAINSENSOR COVER"
+  },
+  {
+    "mongolian": "Агаар урсгалын дадьчик",
+    "english": "METERSUB-ASSY"
+  },
+  {
+    "mongolian": "Багажны амортизатор",
+    "english": "BACK STAYASSY"
+  },
+  {
+    "mongolian": "Салхины шилний даруулганы түгжээ",
+    "english": "WINDSHIELD CLIP"
+  },
+  {
+    "mongolian": "Форсункний илүүдэлийн шруп",
+    "english": "INJECTOR SCREW"
+  },
+  {
+    "mongolian": "Поршен",
+    "english": "PISTON SUB-ASSY"
+  },
+  {
+    "mongolian": "Дохионы релей",
+    "english": "TURN FLASHERASSY"
+  },
+  {
+    "mongolian": "Toyota хувцас L",
+    "english": "L LONGWITHMESH"
+  },
+  {
+    "mongolian": "Toyota хувцас LL",
+    "english": "LL LONGWITHMESH"
+  },
+  {
+    "mongolian": "Toyota хувцас",
+    "english": "LONGWITHMESH"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы жийрэг",
+    "english": "HOLE SNAP RING"
+  },
+  {
+    "mongolian": "Хаалганы гурвалжин",
+    "english": "FRDOORLWR GARNISH"
+  },
+  {
+    "mongolian": "Интеграйшн релей",
+    "english": "INTEGRATION RELAY"
+  },
+  {
+    "mongolian": "Багаж 3",
+    "english": "BEARING PULLERASSY"
+  },
+  {
+    "mongolian": "Лебёдканы урд төмөр таг",
+    "english": "WINCH HOLDERASSY"
+  },
+  {
+    "mongolian": "Түлхүүр систем",
+    "english": "CYLINDER & KEY SET"
+  },
+  {
+    "mongolian": "Урд крылоны хөмсөг",
+    "english": "FR EXTENSIONS/A"
+  },
+  {
+    "mongolian": "Автомат кропны мэдрэгч соленойд №1",
+    "english": "SOLENOIDASSY"
+  },
+  {
+    "mongolian": "Хойд хаалга нугас",
+    "english": "BACK HINGESUB-ASSY"
+  },
+  {
+    "mongolian": "USB залгуур",
+    "english": "USB CHARGER SOCKET"
+  },
+  {
+    "mongolian": "Xойд чулак",
+    "english": "RR HOUSINGASSY"
+  },
+  {
+    "mongolian": "Обудны хошуу",
+    "english": "VALVE"
+  },
+  {
+    "mongolian": "Xалаагчын релей",
+    "english": "GLOW RELAYASSY"
+  },
+  {
+    "mongolian": "Камер, хөгжимний өсгөгч",
+    "english": "CONTROLLER"
+  },
+  {
+    "mongolian": "Автомат кропны тосны шүүр",
+    "english": "OIL STRAINER ASSY"
+  },
+  {
+    "mongolian": "Тохируулагч пүрш",
+    "english": "TENSION SPRING"
+  },
+  {
+    "mongolian": "Автомат кропны касчерийн жийрэг",
+    "english": "TRANSAXLE GASKET"
+  },
+  {
+    "mongolian": "Хойд накладны тэлэгч пүрш",
+    "english": "PARKING STRUTSET"
+  },
+  {
+    "mongolian": "Баруун тольны таг",
+    "english": "OUTER MIRROR COVER"
+  },
+  {
+    "mongolian": "Хойд хагас гол",
+    "english": "RR SHAFTSUB-ASSY"
+  },
+  {
+    "mongolian": "Зүүн урд хаалганы шил",
+    "english": "FR GLASS SUB-ASSY"
+  },
+  {
+    "mongolian": "Баруун урд их гэрэл",
+    "english": "HEADLAMP UNIT"
+  },
+  {
+    "mongolian": "Лебёдканы удирдлага",
+    "english": "WINCH SWITCHASSY"
+  },
+  {
+    "mongolian": "Кроп хундага",
+    "english": "C-2 PISTON"
+  },
+  {
+    "mongolian": "Асаалтын кноп",
+    "english": "PUSHSTART SWITCH"
+  },
+  {
+    "mongolian": "Хойд крыло баруун дээд булан",
+    "english": "OUTER PANEL SIDE"
+  },
+  {
+    "mongolian": "Ослын дэрний хийлэгч",
+    "english": "INFLATORKIT"
+  },
+  {
+    "mongolian": "Xавтас толь",
+    "english": "OUTER RR MIRROR"
+  },
+  {
+    "mongolian": "Их гэрэл ком зүүн",
+    "english": "COMPUTER SUB-ASSY"
+  },
+  {
+    "mongolian": "Чирэгч",
+    "english": "PINTLE HOOK ASSY"
+  },
+  {
+    "mongolian": "Баруун хойд гуперын гэрэл",
+    "english": "BACK-UP LENS & BODY"
+  },
+  {
+    "mongolian": "Гар кардан татах бариул",
+    "english": "PARKING LEVER ASSY"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы поршен",
+    "english": "B-3 PISTON"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы хязгаарлагч",
+    "english": "BODY"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлага",
+    "english": "ACCUMULATOR VALVE"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы жижиг пүрш",
+    "english": "C-3 SPRING SUB-ASSY"
+  },
+  {
+    "mongolian": "Кроп пүрш",
+    "english": "SPRING SUB-ASSY"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы пүрш",
+    "english": "COMPRESSION SPRING"
+  },
+  {
+    "mongolian": "Хойд суудал зүүн бариул",
+    "english": "RECLINING HANDLE"
+  },
+  {
+    "mongolian": "Автомат кропны мэдрэгч соленойд lock up",
+    "english": "LOCK SOLENOIDASSY"
+  },
+  {
+    "mongolian": "Автомат кропны мэдрэгч соленойд",
+    "english": "LINE SOLENOIDASSY"
+  },
+  {
+    "mongolian": "Зүүн хойд ABS-мэдрэгч",
+    "english": "RRLH SENSOR SPEED"
+  },
+  {
+    "mongolian": "Хажуу резин зүүн",
+    "english": "RR WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Дээвэр залаа таг",
+    "english": "ANTENNA COVER KIT"
+  },
+  {
+    "mongolian": "Хөгжим",
+    "english": "RADIO RECEIVER ASSY"
+  },
+  {
+    "mongolian": "Дугуйн төмөр обуд",
+    "english": "DISC WHEEL"
+  },
+  {
+    "mongolian": "Урд шаварын хаалт баруун",
+    "english": "FR FENDER MUDGUARD"
+  },
+  {
+    "mongolian": "Радиаторын дээд хаалтны резин",
+    "english": "HOOD TO SEAL"
+  },
+  {
+    "mongolian": "Хойд багаж хаалга хязгаарлагч",
+    "english": "BACK DOOR CHECK SET"
+  },
+  {
+    "mongolian": "Копут дотор цэмбэ",
+    "english": "HOOD INSULATOR"
+  },
+  {
+    "mongolian": "Хойд багаж хүрээ резин",
+    "english": "BACK WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Баруун подкрыло",
+    "english": "SHIELD SUB-ASSY"
+  },
+  {
+    "mongolian": "Таван бул баруун",
+    "english": "FR SHAFT ASSY"
+  },
+  {
+    "mongolian": "Крышканы жийрэг",
+    "english": "CYLINDER GASKET"
+  },
+  {
+    "mongolian": "Хянах шил",
+    "english": "COMBINATION GLASS"
+  },
+  {
+    "mongolian": "Автомат кропны клапангийн поршень",
+    "english": "C-3 PISTON"
+  },
+  {
+    "mongolian": "Хойд судал таг",
+    "english": "SEAT TRACK COVER"
+  },
+  {
+    "mongolian": "Автомат кропны хавхлаганы их бие",
+    "english": "BODYASSY"
+  },
+  {
+    "mongolian": "Баруун хойд хаалга шилний хөндлөн никель эмжээр",
+    "english": "RR MOULDING ASSY"
+  },
+  {
+    "mongolian": "Хойд тэнцвэржүүлэгчийн цлиндр",
+    "english": "RR CYLINDER"
+  },
+  {
+    "mongolian": "Урд хайрцагны түгжээ",
+    "english": "STRIKER"
+  },
+  {
+    "mongolian": "Багаж баруун хажуу хаалт",
+    "english": "LUGGAGEROOM COVER"
+  },
+  {
+    "mongolian": "Тосны кастер",
+    "english": "OIL PANSUB-ASSY"
+  },
+  {
+    "mongolian": "Редукторын зүрх арааны шарик",
+    "english": "BEARINGRTT.50.83F"
+  },
+  {
+    "mongolian": "Хөргөлтийн радиаторын дээд шланг",
+    "english": "NO.1 HOSE RADIATOR"
+  },
+  {
+    "mongolian": "Таазны бариул",
+    "english": "ASSIST GRIPASSY"
+  },
+  {
+    "mongolian": "Багаж хаалга шил",
+    "english": "BACK DOOR GLASS DAM"
+  },
+  {
+    "mongolian": "Хойд багаж шил",
+    "english": "BACK GLASS SUB-ASSY"
+  },
+  {
+    "mongolian": "Капотны агаарын хоолой",
+    "english": "COOL DUCTSUB-ASSY"
+  },
+  {
+    "mongolian": "Усны радиатор дээд тулаас",
+    "english": "FR MEMBER SUB-ASSY"
+  },
+  {
+    "mongolian": "Агааржуулалтын сетки",
+    "english": "AIR INTAKE COVER"
+  },
+  {
+    "mongolian": "Обудны калбак",
+    "english": "WHEEL CAP SUB-ASSY"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн тосны хөргүүр трупп",
+    "english": "OIL COOLER HOSE"
+  },
+  {
+    "mongolian": "Сэнс хүрээ",
+    "english": "FAN SHROUD"
+  },
+  {
+    "mongolian": "Усны помп трупп",
+    "english": "WATER BY-PASS PIPE"
+  },
+  {
+    "mongolian": "Усны радиатор доод ба труба",
+    "english": "NO.2 HOSE RADIATOR"
+  },
+  {
+    "mongolian": "Усны радиатор дээд ба труба",
+    "english": "NO.1 HOSE RADIATOR"
+  },
+  {
+    "mongolian": "Термостат трупп",
+    "english": "WATER BY-PASS HOSE"
+  },
+  {
+    "mongolian": "Яндан гол",
+    "english": "EXHAUST PIPE ASSY"
+  },
+  {
+    "mongolian": "Гал хамгаалагч дээд таг",
+    "english": "RELAY BLOCK COVER"
+  },
+  {
+    "mongolian": "Гидр насос",
+    "english": "VANE PUMP ASSY"
+  },
+  {
+    "mongolian": "Баруун урд гуперийн булан",
+    "english": "FRBUMPER PAD"
+  },
+  {
+    "mongolian": "Зурвас ачааны голын тогтоогч",
+    "english": "ROOFDRIP RETAINER"
+  },
+  {
+    "mongolian": "Toyota хувцас M",
+    "english": "M LONGWITHMESH"
+  },
+  {
+    "mongolian": "Toyota хувцас BL",
+    "english": "BL LONGWITHMESH"
+  },
+  {
+    "mongolian": "Toyota хувцас S",
+    "english": "S LONGWITHMESH"
+  },
+  {
+    "mongolian": "багаж",
+    "english": "OILPANSEAL CUTTER"
+  },
+  {
+    "mongolian": "Дуу дарагч",
+    "english": "RR BUMPER STOPPER"
+  },
+  {
+    "mongolian": "Даралтын насос шүүр",
+    "english": "FUEL ELEMENT ASSY"
+  },
+  {
+    "mongolian": "Багаж 20",
+    "english": "REMOVER"
+  },
+  {
+    "mongolian": "Тос туслах кроп",
+    "english": "TRANSFERGEAROILLF"
+  },
+  {
+    "mongolian": "Хойд гупер гол",
+    "english": "RR BUMPERSUB-ASSY"
+  },
+  {
+    "mongolian": "Багаж 2",
+    "english": "SNAPRING"
+  },
+  {
+    "mongolian": "Багаж 19",
+    "english": "EXPANDER"
+  },
+  {
+    "mongolian": "Хойд гупер баруун булан",
+    "english": "RH PLATE RRBUMPER"
+  },
+  {
+    "mongolian": "Хойд гупер зүүн булан",
+    "english": "LH PLATE RRBUMPER"
+  },
+  {
+    "mongolian": "Хойд тэлдэг наклад тохируулагч болт",
+    "english": "TYPEC WASHER"
+  },
+  {
+    "mongolian": "Хойд наклад",
+    "english": "DISC BRAKE PAD KIT"
+  },
+  {
+    "mongolian": "Кундакторын үүр",
+    "english": "BRACKET ASSY"
+  },
+  {
+    "mongolian": "Багаж 5",
+    "english": "PULLERB SET"
+  },
+  {
+    "mongolian": "Багаж 6",
+    "english": "N0.2 SET REPLACER"
+  },
+  {
+    "mongolian": "Багаж 7",
+    "english": "HANDLE SET"
+  },
+  {
+    "mongolian": "Багаж 12",
+    "english": "TOOLSET"
+  },
+  {
+    "mongolian": "Багаж 14",
+    "english": "CLUCHGUIDE TOOL"
+  },
+  {
+    "mongolian": "Багаж 4 09550-60010",
+    "english": "REPLACER"
+  },
+  {
+    "mongolian": "Галын хорны уут",
+    "english": "FIREEXTINGUISHER"
+  },
+  {
+    "mongolian": "Галын хорны тогтоогч дэгээ",
+    "english": "HOOK"
+  },
+  {
+    "mongolian": "Капотны гар цоож",
+    "english": "HOOD HOOKASSY"
+  },
+  {
+    "mongolian": "Баруун урд крылоны LC бичиг",
+    "english": "FRFENDER EMBLEM"
+  },
+  {
+    "mongolian": "Суудал санагчийн удирдлага",
+    "english": "SEATMEMORY SWITCH"
+  },
+  {
+    "mongolian": "Нам даралт шланк",
+    "english": "OILRESERVOIR HOSE"
+  },
+  {
+    "mongolian": "REFLECTOR, LASER багаж",
+    "english": "LASER REFLECTOR"
+  },
+  {
+    "mongolian": "STAND, BASE",
+    "english": "BASE STAND"
+  },
+  {
+    "mongolian": "Зүүн урд их гэрлийн шил",
+    "english": "LH LENS HEADLAMP"
+  },
+  {
+    "mongolian": "Toyota хувцас BLL",
+    "english": "BLL LONGWITHMESH"
+  },
+  {
+    "mongolian": "Зүүн урд крылоны дотор хаалт",
+    "english": "FR FENDER PROTECTOR"
+  },
+  {
+    "mongolian": "Xолимогийн хаалт",
+    "english": "THROTTLE BODYASSY"
+  },
+  {
+    "mongolian": "Урд гупер зүүн булан",
+    "english": "HEADLAMP GARNISH"
+  },
+  {
+    "mongolian": "Товуд 2",
+    "english": "CGSPL2.5K"
+  },
+  {
+    "mongolian": "Рулын доод аппарат",
+    "english": "STEERING GEAR ASSY"
+  },
+  {
+    "mongolian": "Баруун урд багана",
+    "english": "FR PILLAR SUB-ASSY"
+  },
+  {
+    "mongolian": "Гар тормозны тохируулагч татуурга",
+    "english": "CRANK"
+  },
+  {
+    "mongolian": "Баруун урд хаалганы дотор самбар",
+    "english": "FR DOOR PANEL ASSY"
+  },
+  {
+    "mongolian": "Баруун урд хаалганы шилний нуух",
+    "english": "WEATHERSTRIP"
+  },
+  {
+    "mongolian": "Переда ган диск ком",
+    "english": "COVER& CLUTCHSET"
+  },
+  {
+    "mongolian": "Багаж 13",
+    "english": "EFIFUEL SET"
+  },
+  {
+    "mongolian": "Багаж 8",
+    "english": "BALLJOINT SET"
+  },
+  {
+    "mongolian": "Багаж 9",
+    "english": "HAND MAGNET"
+  },
+  {
+    "mongolian": "Багаж 21",
+    "english": "SPACE B"
+  },
+  {
+    "mongolian": "Баруун урд хаалга дотор кант",
+    "english": "FR DOOR PLATE"
+  },
+  {
+    "mongolian": "Антенн гадна таг",
+    "english": "ANTENNA ASSY"
+  },
+  {
+    "mongolian": "Баруун хойд дотор шалны даруулга",
+    "english": "RRDOORSCUFF PLATE"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн доод эд анги",
+    "english": "SHORT BLOCKASSY"
+  },
+  {
+    "mongolian": "Хойд бичиг GR",
+    "english": "FRFENDER PLATE"
+  },
+  {
+    "mongolian": "Гидрийн радиатор",
+    "english": "OIL COOLERSUB-ASSY"
+  },
+  {
+    "mongolian": "Ухрах гэрэл",
+    "english": "RH LED RRLAMP"
+  },
+  {
+    "mongolian": "Хаалганы самбарын гэрэл",
+    "english": "COURTESY LAMP ASSY"
+  },
+  {
+    "mongolian": "Духны сальник",
+    "english": "SEAL"
+  },
+  {
+    "mongolian": "Урд тэвш",
+    "english": "FR FRAME ASSY"
+  },
+  {
+    "mongolian": "Капот",
+    "english": "HOOD SUB-ASSY"
+  },
+  {
+    "mongolian": "Урд тэвшний доод суурь",
+    "english": "FR SUSPENSION BRACE"
+  },
+  {
+    "mongolian": "Хөдөлгүүр доод хаалт урд",
+    "english": "ENGINE UNDER COVER"
+  },
+  {
+    "mongolian": "Паарны утас",
+    "english": "AIR HARNESS"
+  },
+  {
+    "mongolian": "Тольний удирдлага",
+    "english": "OUTER SWITCHASSY"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэний савны таг",
+    "english": "TANK CAP"
+  },
+  {
+    "mongolian": "Капотны жийрэг резин",
+    "english": "FENDERTO BUMPER"
+  },
+  {
+    "mongolian": "Хойд шил арчигчийн мотор",
+    "english": "RR WIPER MOTOR ASSY"
+  },
+  {
+    "mongolian": "Дрож шалавчны бэхлэгч түгжээ",
+    "english": "LWR PLATE MATSET"
+  },
+  {
+    "mongolian": "Агаар шүүгчийн хоолой",
+    "english": "AIRCLEANER HOSE"
+  },
+  {
+    "mongolian": "Банкны бүслүүр",
+    "english": "FUELTANK BRACKET"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн тасралтгүй байдал хангах клапан",
+    "english": "CV CONTROLLERASSY"
+  },
+  {
+    "mongolian": "Тормозны төв аппарат банкны таг",
+    "english": "RESERVOIR CAPASSY"
+  },
+  {
+    "mongolian": "Хойд хаалганы дотор саарал хүрээ",
+    "english": "DOORASSIST COVER"
+  },
+  {
+    "mongolian": "Банкны түвшин мэдрэгч",
+    "english": "OIL GAGEASSY"
+  },
+  {
+    "mongolian": "Голын хайрцагны удирдлага",
+    "english": "CONTROL&PANEL"
+  },
+  {
+    "mongolian": "Хойд дагуу татуурга",
+    "english": "TRAILING ARMASSY"
+  },
+  {
+    "mongolian": "Хойд тэвшний хаалганы нугас",
+    "english": "TAIL HINGEAS"
+  },
+  {
+    "mongolian": "Ус цацагчийн хошуу",
+    "english": "FRWASHER NOZZLE"
+  },
+  {
+    "mongolian": "Хаалганы доод түгжээ резин",
+    "english": "DOOR DUST SEAL"
+  },
+  {
+    "mongolian": "Хаалганы дээд цоожны таг",
+    "english": "BACKDOOR COVER"
+  },
+  {
+    "mongolian": "Гал хамгаалагч 140 ah",
+    "english": "FUSIBLELINK"
+  },
+  {
+    "mongolian": "Карданы дунд гукны шарик",
+    "english": "CTR BEARINGASSY"
+  },
+  {
+    "mongolian": "Тамхины асаагуур",
+    "english": "LIGHTERASSY"
+  },
+  {
+    "mongolian": "Инвертерийн хөргөлтийн трүп",
+    "english": "INVERTER HOSE"
+  },
+  {
+    "mongolian": "Дэлгэц",
+    "english": "DISPLAY ASSY"
+  },
+  {
+    "mongolian": "Хойд их бие дээрх гэрлийн боолт таг",
+    "english": "RRLAMP COVER"
+  },
+  {
+    "mongolian": "Редукторын зүрх арааны үзүүр шайб",
+    "english": "SHIM"
+  },
+  {
+    "mongolian": "Чихэвч",
+    "english": "HEADPHONE"
+  },
+  {
+    "mongolian": "Хойд төмөр гупер",
+    "english": "RR BARSUB-ASSY"
+  },
+  {
+    "mongolian": "Дугуйн балансны ачаа",
+    "english": "BALANCE WEIGHT"
+  },
+  {
+    "mongolian": "Хаалганы бариулын суурь",
+    "english": "FR FRAMESUB-ASSY"
+  },
+  {
+    "mongolian": "Сүлжээний компьютер",
+    "english": "COMPUTERASSY"
+  },
+  {
+    "mongolian": "Хойд суудлын түгжигчийн таг",
+    "english": "NO.3SEAT COVER"
+  },
+  {
+    "mongolian": "Запас дугуй үүрэгчийн нугасны таг",
+    "english": "SPAREWHEEL BRACKET"
+  },
+  {
+    "mongolian": "Түгжигч таг",
+    "english": "WASHERTANK KNOB"
+  },
+  {
+    "mongolian": "Урд суудлын нурууны халаагч",
+    "english": "SEAT HEATERASSY"
+  },
+  {
+    "mongolian": "Багажны суудлын нугасны таг",
+    "english": "RRSEATHINGE COVER"
+  },
+  {
+    "mongolian": "Хойд номерийн суурь",
+    "english": "BACKDOOR GARNISH"
+  },
+  {
+    "mongolian": "Цоожны шрүп",
+    "english": "HEXALOBULAR SCREW"
+  },
+  {
+    "mongolian": "Хаазны педал",
+    "english": "RODASSY"
+  },
+  {
+    "mongolian": "Усны помп оруулах хоолой",
+    "english": "WATER OUTLET"
+  },
+  {
+    "mongolian": "Түгжээ",
+    "english": "INSULATOR CLIPKIT"
+  },
+  {
+    "mongolian": "Радиаторын дээд хоолой",
+    "english": "RADIATOR INLET"
+  },
+  {
+    "mongolian": "Кропны хөргөлтийн хоолой №3",
+    "english": "TRANSMISSION HOSE"
+  },
+  {
+    "mongolian": "Ус цацагчийн түгжээ",
+    "english": "T JOINT"
+  },
+  {
+    "mongolian": "Урд пүршний зөөлөвч",
+    "english": "FRSPRING BUMPER"
+  },
+  {
+    "mongolian": "Баруун урд хаалганы жижиг бариул",
+    "english": "DOOR COVERASSY"
+  },
+  {
+    "mongolian": "Тормосны дээд аппарат",
+    "english": "BRAKE ACTUATORASSY"
+  },
+  {
+    "mongolian": "Тормозны аппаратны эрүү",
+    "english": "RRDISC MOUNTING"
+  },
+  {
+    "mongolian": "Хаалганы цоожлогч товчлуур",
+    "english": "DOORCONTROL SWITCH"
+  },
+  {
+    "mongolian": "Хаалганы кант",
+    "english": "MOULDINGSET"
+  },
+  {
+    "mongolian": "Хаалганы дээд рольк",
+    "english": "SLIDE ROLLERASSY"
+  },
+  {
+    "mongolian": "Урд гуперийн таг",
+    "english": "FRBUMPER GARNISH"
+  },
+  {
+    "mongolian": "Ачааны хөлний резин",
+    "english": "ROOFRACK CUSHION"
+  },
+  {
+    "mongolian": "Динамны урд шкив",
+    "english": "ALTERNATOR PULLEY"
+  },
+  {
+    "mongolian": "Урд чирэгчийн гогцоо",
+    "english": "FR HOOKASSY"
+  },
+  {
+    "mongolian": "Багажны хайрцаг",
+    "english": "TOOL CASE"
+  },
+  {
+    "mongolian": "Урд чирэгчийн гогцоо шилжүүлэгч",
+    "english": "FR HOOK TRANSPORT"
+  },
+  {
+    "mongolian": "Манангийн гэрлийн арын суурь",
+    "english": "FRBUMPER BRACKET"
+  },
+  {
+    "mongolian": "Товуд 1",
+    "english": "MP-GNO.22.5K"
+  },
+  {
+    "mongolian": "Товуд 6",
+    "english": "BODYGREASEW"
+  },
+  {
+    "mongolian": "Товуд 8",
+    "english": "CLUTCHRELEASEHUB-G"
+  },
+  {
+    "mongolian": "Товуд 5",
+    "english": "CLUTCHSPLINE-G100G"
+  },
+  {
+    "mongolian": "Товуд 3",
+    "english": "RUBBER-G100G"
+  },
+  {
+    "mongolian": "Товуд 7",
+    "english": "DISCBRAKEGREASE2"
+  },
+  {
+    "mongolian": "Товуд 4",
+    "english": "NONMELT100G"
+  },
+  {
+    "mongolian": "Хаалга хязгаарлагч",
+    "english": "FRDOOR CHECKASSY"
+  },
+  {
+    "mongolian": "Хойд баруун эмьблем",
+    "english": "BODYSIDE EMBLEM"
+  },
+  {
+    "mongolian": "Радиаторын доод хүйсний болт",
+    "english": "COCK"
+  },
+  {
+    "mongolian": "Зүүн урд агаар шүүгчний таг",
+    "english": "AIRCLEANER CAP"
+  },
+  {
+    "mongolian": "Баруун урд крылоны шил",
+    "english": "SIDEWINDOW GLASS"
+  },
+  {
+    "mongolian": "Урд гуперийн доод тогтоогч",
+    "english": "FRBUMPER GARNISH"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэн түвшин мэдрэгч",
+    "english": "LEVEL SWITCH"
+  },
+  {
+    "mongolian": "Баттарейны агаар шүүгч",
+    "english": "HVBATTERY FILTER"
+  },
+  {
+    "mongolian": "Хаазны педаль",
+    "english": "SENSORASSY"
+  },
+  {
+    "mongolian": "Голын хайрцаг таг",
+    "english": "DOORSUB-ASSY"
+  },
+  {
+    "mongolian": "Голын хайрцагны тогтоогч",
+    "english": "CONSOLE RETAINER"
+  },
+  {
+    "mongolian": "Рулийн аппаратны даравч резин",
+    "english": "STEERING GROMMET"
+  },
+  {
+    "mongolian": "хойд тэвшний втулка",
+    "english": "RRSUSPENSION BUSH"
+  },
+  {
+    "mongolian": "нумны втулка",
+    "english": "LEAFSPRING DAMPER"
+  },
+  {
+    "mongolian": "Хажуугийн хуулга",
+    "english": "RH STRIPE FENDER"
+  },
+  {
+    "mongolian": "дээврийн замны хаалт",
+    "english": "ROOFDRIP MOULDING"
+  },
+  {
+    "mongolian": "Урд хайрцагны цоож",
+    "english": "GLOVE LOCKSUB-ASSY"
+  },
+  {
+    "mongolian": "шупонк",
+    "english": "WOODRUFF KEY"
+  },
+  {
+    "mongolian": "Ослын дэр",
+    "english": "FR GARNISHASSYKIT"
+  },
+  {
+    "mongolian": "Тос бензин, дизель хөдөлгүүр 4л",
+    "english": "ENGINE OIL10W"
+  },
+  {
+    "mongolian": "Хөргөлтийн шингэн 2л",
+    "english": "SUPERLONGLIFE"
+  },
+  {
+    "mongolian": "Багаж, тусгай багаж",
+    "english": "RINGF"
+  },
+  {
+    "mongolian": "Багаж , хойд шарик шахагч",
+    "english": "REAR ATTACHMENT"
+  },
+  {
+    "mongolian": "Кропны байрлалын мэдрэгч",
+    "english": "SHIFTLEVER SENSOR"
+  },
+  {
+    "mongolian": "Хавтас толь Camry",
+    "english": "OUTERRR MIRROR"
+  },
+  {
+    "mongolian": "Аккумляторын нэмэн клем",
+    "english": "TERMINAL"
+  },
+  {
+    "mongolian": "Урд дуу гаргагч",
+    "english": "SPEAKERASSY"
+  },
+  {
+    "mongolian": "Яндангийн хаалт",
+    "english": "FRFLOOR INSULATOR"
+  },
+  {
+    "mongolian": "Зүүн хойд хаалганы нарийн никель",
+    "english": "RRDOOR MOULDING"
+  },
+  {
+    "mongolian": "Агаарын хавхлага",
+    "english": "AIRSWITCHING KIT"
+  },
+  {
+    "mongolian": "Агаарын насосны засварын сэлбэг",
+    "english": "AIRPUMP REPAIRKIT"
+  },
+  {
+    "mongolian": "Толины боолтны таг",
+    "english": "FRFENDER COVER"
+  },
+  {
+    "mongolian": "Хойд суудлын бүс",
+    "english": "RRSEAT BELTASSY"
+  },
+  {
+    "mongolian": "Бензиний трүпны клапан",
+    "english": "FUELTUBE CLAMP"
+  },
+  {
+    "mongolian": "Турбоны хоолой",
+    "english": "ELBOWSUB-ASSY"
+  },
+  {
+    "mongolian": "Хаалганы зам",
+    "english": "SLIDE RAILSUB-ASSY"
+  },
+  {
+    "mongolian": "Баруун хойд хаалганы цоожны хэл",
+    "english": "SLIDE PLATEASSY"
+  },
+  {
+    "mongolian": "Урд пүршний жижиг зөөлөвч",
+    "english": "BUMPER"
+  },
+  {
+    "mongolian": "Ундааны тасалгааны сав",
+    "english": "INSTRUMENT HOLDER"
+  },
+  {
+    "mongolian": "Суудлын боолтны таг",
+    "english": "RRSEATTRACK COVER"
+  },
+  {
+    "mongolian": "Урд тэнхлэг втулк резин",
+    "english": "FRSUSP CUSHION"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэний савны жийрэг",
+    "english": "A PACKING WASHER"
+  },
+  {
+    "mongolian": "Карданы дунд гук",
+    "english": "CENTER BEARINGSET"
+  },
+  {
+    "mongolian": "Хойд гуперийн никель эмжээр",
+    "english": "RRBUMPER MOULDING"
+  },
+  {
+    "mongolian": "Шил арчигчийн речак",
+    "english": "WINDSHIELD SWITCH"
+  },
+  {
+    "mongolian": "Хойд гуперийн гишгүүрийн резин",
+    "english": "RRBUMPER PLATE"
+  },
+  {
+    "mongolian": "Xойд редукторын жийрэг",
+    "english": "GASKET"
+  },
+  {
+    "mongolian": "Тэвшний крыло",
+    "english": "SIDE PANEL RRBODY"
+  },
+  {
+    "mongolian": "Сеткин нүүр",
+    "english": "GRILLEASSY"
+  },
+  {
+    "mongolian": "Хойд редукторын тос буцаагч цагираг",
+    "english": "DRIVE SLINGER"
+  },
+  {
+    "mongolian": "Урд редукторын тос буцаагч цагираг",
+    "english": "DIFFERENTIAL RING"
+  },
+  {
+    "mongolian": "Урд крылоны доод хаалт",
+    "english": "FRFENDER SEAL"
+  },
+  {
+    "mongolian": "Гар тормозны пүрш тогтоогч",
+    "english": "BELLCRANK BRACKET"
+  },
+  {
+    "mongolian": "Яндан дунд",
+    "english": "PIPESUB-ASSY"
+  },
+  {
+    "mongolian": "45130-60640-E0 Рулын ослын дэр",
+    "english": "STEERING PADASSY"
+  },
+  {
+    "mongolian": "Багажны доод хаалганы шалавч панедь",
+    "english": "RRFLOORMAT PLATE"
+  },
+  {
+    "mongolian": "Толь хураагчийн удирдлага",
+    "english": "RETRACTABLE SWITCH"
+  },
+  {
+    "mongolian": "Агаар шүүгчний таг",
+    "english": "AIR CAPSUB-ASSY"
+  },
+  {
+    "mongolian": "Багажны хаалганы хязгаарлагч төмөр таг",
+    "english": "BACKDOOR GUIDE"
+  },
+  {
+    "mongolian": "Термостат үүр",
+    "english": "WATER JOINT"
+  },
+  {
+    "mongolian": "Их гэрэл угаагч хувиарлагч",
+    "english": "HOSE"
+  },
+  {
+    "mongolian": "Термостатны дээд хайлшин хоолой",
+    "english": "WATER INLET"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн тагны дээрх хар таг",
+    "english": "OIL SEPARATORASSY"
+  },
+  {
+    "mongolian": "Гидрийн шланк даралтын мэдрэгч",
+    "english": "POWER SWITCH"
+  },
+  {
+    "mongolian": "Хөгжимний дэлгэц",
+    "english": "MULTI-DISPLAYASSY"
+  },
+  {
+    "mongolian": "Диференциал цоожлогчийн удирдлага",
+    "english": "DIFFERENTIAL SWITCH"
+  },
+  {
+    "mongolian": "Суудлын аюулгүйн бүсний гэр",
+    "english": "SEATTRACK COVER"
+  },
+  {
+    "mongolian": "Автомат кропны диск",
+    "english": "CLUTCH DISC"
+  },
+  {
+    "mongolian": "Автомат кропны дискны даравч",
+    "english": "NO.1 PLATE CLUTCH"
+  },
+  {
+    "mongolian": "Багажны хаалганы тулгуур резин",
+    "english": "BACKDOOR PAD"
+  },
+  {
+    "mongolian": "Cуудлын хажуу бариул",
+    "english": "RECLINING HANDLE"
+  },
+  {
+    "mongolian": "Суудлын түгжээ",
+    "english": "FRSEAT SUPPORT"
+  },
+  {
+    "mongolian": "Автомат кропны шахагч араа",
+    "english": "FORWARDCLUTCH HUB"
+  },
+  {
+    "mongolian": "Крыло дээор дохионы гэрэл",
+    "english": "LENS&BODY"
+  },
+  {
+    "mongolian": "Турбоны агаар шүүгчийн 2 салаалагч",
+    "english": "INTAKE CONNECTOR"
+  },
+  {
+    "mongolian": "Гүймэл арааны цоожлогч",
+    "english": "DIFFERENTIAL SLEEVE"
+  },
+  {
+    "mongolian": "Хойд салхи зүсэгчийн түгжээ",
+    "english": "RRSPOILER CLIP"
+  },
+  {
+    "mongolian": "Их гэрэл шилжүүлэгчийн мэдрэгч",
+    "english": "LIGHT SENSOR"
+  },
+  {
+    "mongolian": "Дотор агааржуулалтын сетик",
+    "english": "REGISTERASSY"
+  },
+  {
+    "mongolian": "Гишгүүрийн гэрэл",
+    "english": "STEP LAMPASSY"
+  },
+  {
+    "mongolian": "Салоны голын хайцагны суурь",
+    "english": "CONSOLEBOX COVER"
+  },
+  {
+    "mongolian": "Нөөц дугуй үүрэгчийн хайрцаг",
+    "english": "SPARE COVERSUB-ASSY"
+  },
+  {
+    "mongolian": "Хөгжимний программ таниулагч",
+    "english": "NAVIGATION CARD"
+  },
+  {
+    "mongolian": "Xойд гэрлийн тоосны хамгаалалт",
+    "english": "RR PACKING"
+  },
+  {
+    "mongolian": "Дрож шалавчны бэхлэгч",
+    "english": "UPR PLATE MATSET"
+  },
+  {
+    "mongolian": "Паарны удирдлага",
+    "english": "CTR CONTROLASSY"
+  },
+  {
+    "mongolian": "Хаалганы самбарын доод гэрэл",
+    "english": "COURTESY LAMPASSY"
+  },
+  {
+    "mongolian": "Хаалганы дотор бариулын суурь",
+    "english": "FRDOOR BEZEL"
+  },
+  {
+    "mongolian": "Крылоны дотор панель",
+    "english": "QUARTER PANELASSY"
+  },
+  {
+    "mongolian": "Урд салоны хайрцаг",
+    "english": "PANELASSY"
+  },
+  {
+    "mongolian": "Крылоны шилний дээд панель",
+    "english": "ROOFSIDE GARNISH"
+  },
+  {
+    "mongolian": "USB залгуурын таг",
+    "english": "SPARESWITCH COVER"
+  },
+  {
+    "mongolian": "Мостны компьютер",
+    "english": "4WHEEL COMPUTER"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн тосны кастер",
+    "english": "NO.1 PAN OIL"
+  },
+  {
+    "mongolian": "Нөөц дугуйн цоожлогч болт",
+    "english": "SPAREWHEEL NUT"
+  },
+  {
+    "mongolian": "Багаж, урд тэнхлэгний втулк шахагч",
+    "english": "TOOLSET"
+  },
+  {
+    "mongolian": "Лебёдканы урд троссны бэхлэгч ролик",
+    "english": "WINCH BRACKETASSY"
+  },
+  {
+    "mongolian": "Ус шүршигчийн мотор",
+    "english": "FRWIPER MOTORASSY"
+  },
+  {
+    "mongolian": "Сафоны таг",
+    "english": "OILFILLER CAPASSY"
+  },
+  {
+    "mongolian": "Гишгүүрийн бэхлэгч төмөр",
+    "english": "STEP REINFORCEMENT"
+  },
+  {
+    "mongolian": "Гишгүүрийн тагны хаалт",
+    "english": "STEP PROTECTOR"
+  },
+  {
+    "mongolian": "Кузов өргөгчийн трупны хомут",
+    "english": "HEIGHT CLAMP"
+  },
+  {
+    "mongolian": "Багаж, банкны таг онгойлгогч багаж",
+    "english": "FUELPUMP TOOL"
+  },
+  {
+    "mongolian": "Зорчигчийн ослын дэр",
+    "english": "STEERING PAD ASSY"
+  },
+  {
+    "mongolian": "Голын хайрцагны суурь",
+    "english": "RRCONSOLE BOX"
+  },
+  {
+    "mongolian": "Хөмсөгний жийргэвч резин",
+    "english": "RRWHEEL PAD"
+  },
+  {
+    "mongolian": "Хөдөлгүүр",
+    "english": "PARTIAL ENGINEASSY"
+  },
+  {
+    "mongolian": "Ус цацагч хошуу хойд",
+    "english": "RRWASHER NOZZLE"
+  },
+  {
+    "mongolian": "Радиаторын хоолой",
+    "english": "RADIATOR HOSE"
+  },
+  {
+    "mongolian": "Xойд гуперийн бэхлэгч",
+    "english": "RRBUMPER BRACKET"
+  },
+  {
+    "mongolian": "Паарны удирдлагын самбар",
+    "english": "HEATER PLATE"
+  },
+  {
+    "mongolian": "Суудлын дэрний бэхлэгч түгжээ",
+    "english": "FR SUPPORTASSY"
+  },
+  {
+    "mongolian": "Антенн мотор",
+    "english": "MOTORANTENNA RELAY"
+  },
+  {
+    "mongolian": "Консны доод аппаратны сальник",
+    "english": "CLUTCH CYLINDERKIT"
+  },
+  {
+    "mongolian": "Урд тормозны аппаратны поршин",
+    "english": "DISCBRAKE PISTON"
+  },
+  {
+    "mongolian": "Крылоны нуух",
+    "english": "MOULDINGASSY"
+  },
+  {
+    "mongolian": "Свеча утас",
+    "english": "COIL& CORDSET"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн дэр резин",
+    "english": "ENGINE INSULATOR"
+  },
+  {
+    "mongolian": "Клапаны дохиур",
+    "english": "VALVE ARMSUB-ASSY"
+  },
+  {
+    "mongolian": "Бэхлэгч төмөр",
+    "english": "SUPPORTKIT"
+  },
+  {
+    "mongolian": "Xавчаар төмөр",
+    "english": "FITTINGKIT"
+  },
+  {
+    "mongolian": "Дээд гарны втулк",
+    "english": "UPRARM BUSH"
+  },
+  {
+    "mongolian": "Чирэгчийн залгуур",
+    "english": "NO.3 WIRE FRAME"
+  },
+  {
+    "mongolian": "Ном",
+    "english": "OM.LX570/450D"
+  },
+  {
+    "mongolian": "Багаж тамхины асаагуур таг",
+    "english": "POWEROUTLET SOCKET"
+  },
+  {
+    "mongolian": "Речакны түгжээний таг",
+    "english": "SHIFTLOCK COVER"
+  },
+  {
+    "mongolian": "Гар карданы наклад бэхлэгч",
+    "english": "BLOCKSUB-ASSY"
+  },
+  {
+    "mongolian": "Рычагны панелийн эмжээр",
+    "english": "CONSOLEUPR BASE"
+  },
+  {
+    "mongolian": "Суудлын дотор рам",
+    "english": "FRSEAT FRAMEASSY"
+  },
+  {
+    "mongolian": "Урд баганын дотор хаалт",
+    "english": "FR GARNISHASSY"
+  },
+  {
+    "mongolian": "Баруун урд их гэрлийн жийрэг",
+    "english": "HOODTOFREND SEAL"
+  },
+  {
+    "mongolian": "Хойд богино татуурга",
+    "english": "TOE LINKSUB-ASSY"
+  },
+  {
+    "mongolian": "Кропны кастер",
+    "english": "PANSUB-ASSY"
+  },
+  {
+    "mongolian": "Сеткин нүүрний зөөлөвч",
+    "english": "LH SEAL RADIATOR"
+  },
+  {
+    "mongolian": "Хойд багаж панел түгжээ баруун",
+    "english": "LUGGAGE HOOK"
+  },
+  {
+    "mongolian": "Хойд багаж панел түгжээ зүүн",
+    "english": "DOORTRIM CLIP"
+  },
+  {
+    "mongolian": "Багажны хаалганы дэр резин",
+    "english": "BACKDOOR CUSHION"
+  },
+  {
+    "mongolian": "Нөөц дугуй үүрэгчийн таг",
+    "english": "SPAREWHEEL COVER"
+  },
+  {
+    "mongolian": "Агааржуулалтын насосын таг",
+    "english": "AIRPUMP INLET"
+  },
+  {
+    "mongolian": "Хойд талын халуун хүйтний паарны кноп",
+    "english": "HEATERCONTROL KNOB"
+  },
+  {
+    "mongolian": "Хойд багажны панелны таг",
+    "english": "TOOL PANELSUB-ASSY"
+  },
+  {
+    "mongolian": "Копудны никель",
+    "english": "HOOD MOULDINGASSY"
+  },
+  {
+    "mongolian": "Голын хайрцагны речакны хүрээ",
+    "english": "UPR PANEL CONSOLE"
+  },
+  {
+    "mongolian": "Стартерын татах релей",
+    "english": "MAGNETI SWITCHASSY"
+  },
+  {
+    "mongolian": "Духны том гинжний баригч",
+    "english": "CHAINDAMPER GUIDE"
+  },
+  {
+    "mongolian": "Чангалагчийн жийрэг",
+    "english": "CHAIN GASKET"
+  },
+  {
+    "mongolian": "Батарей",
+    "english": "HV BATTERYASSY"
+  },
+  {
+    "mongolian": "Суудлын бүсний түгжээ",
+    "english": "FRSEAT BELTKIT"
+  },
+  {
+    "mongolian": "Урд крылоны хажуу хаалт",
+    "english": "FRFENDER PROTECTOR"
+  },
+  {
+    "mongolian": "Суудлын замны таг",
+    "english": "RRSEAT PANELKIT"
+  },
+  {
+    "mongolian": "Баруун таван бул",
+    "english": "FRDRIVE JOINTASSY"
+  },
+  {
+    "mongolian": "Хойд ухрахын гэрлийн потрон",
+    "english": "CLEARA SOCKET&WIRE"
+  },
+  {
+    "mongolian": "Шил арчигчийн шингэний оруулах хоолой",
+    "english": "PIPE"
+  },
+  {
+    "mongolian": "Урд тэнхлэгний хөндлөвч",
+    "english": "FR MEMBERSUB-ASSY"
+  },
+  {
+    "mongolian": "Суудлын налавчны парлон",
+    "english": "FRSEATBACK PAD"
+  },
+  {
+    "mongolian": "Урд гуперийн хамгаалалтын бэхэлгээ",
+    "english": "FR BRACKETASSY"
+  },
+  {
+    "mongolian": "Урд гуперын голын бэхлэгээ төмөр",
+    "english": "FR STAYSUB-ASSY"
+  },
+  {
+    "mongolian": "Хойд багажны хаалганы сүлжээ комьпютер",
+    "english": "MULTIPLEX COMPUTER"
+  },
+  {
+    "mongolian": "Орох хоолойн цуурай гаргагч хэрэгсэл",
+    "english": "INTAKE RESONATOR"
+  },
+  {
+    "mongolian": "Хойд багаж зүүн хаалт",
+    "english": "LH BOX DECKFLOOR"
+  },
+  {
+    "mongolian": "Багажны хаалганы доод тавцан",
+    "english": "RRFLOOR PLATE"
+  },
+  {
+    "mongolian": "Зүүн урд шалны үндсэн бэхэлгээ төмөр",
+    "english": "FRSIDE MEMBER"
+  },
+  {
+    "mongolian": "Ослын дэр урд сандал",
+    "english": "FR AIRBAGASSY"
+  },
+  {
+    "mongolian": "Хойд гуперийн тавцан",
+    "english": "RRBUMPER STEP"
+  },
+  {
+    "mongolian": "Крылоны жийргэвч",
+    "english": "FR BRACKETSUB-ASSY"
+  },
+  {
+    "mongolian": "Урд хаалганы дотор кант",
+    "english": "DOORASSIST GRIP"
+  },
+  {
+    "mongolian": "Инвертерийн радиаторын зөөлөвч резин",
+    "english": "FANSHROUD CUSHION"
+  },
+  {
+    "mongolian": "Хойд багажны хаалганы доод кантны суурь",
+    "english": "BACKDOOR RETAINER"
+  },
+  {
+    "mongolian": "Xөргөлтийн сэнсний компьютер",
+    "english": "COOLING COMPUTER"
+  },
+  {
+    "mongolian": "Зурвас ачаа хойд таг",
+    "english": "ROOFSIDE LID"
+  },
+  {
+    "mongolian": "Радиаторын дээд тулгуур",
+    "english": "RADIATOR SUPPORT"
+  },
+  {
+    "mongolian": "Радиаторын тагны дэр резин",
+    "english": "RADIATOR CUSHION"
+  },
+  {
+    "mongolian": "Сэнсний мотор №1",
+    "english": "COOLINGFAN MOTOR"
+  },
+  {
+    "mongolian": "Сэнсний хүрээ №2",
+    "english": "NO.2 SHROUD FAN"
+  },
+  {
+    "mongolian": "Xуванцар хаалт, усны радиаторын дээд",
+    "english": "RADIATORUPR PLATE"
+  },
+  {
+    "mongolian": "Хөдөлгүүрийн лапны суурь",
+    "english": "ENGINE BRACKET"
+  },
+  {
+    "mongolian": "Бензин шүүрний дээд таг",
+    "english": "FUEL PLATESUB-ASSY"
+  },
+  {
+    "mongolian": "Хойд шалавчны түгжээ",
+    "english": "DECK HANDLEASSY"
+  },
+  {
+    "mongolian": "Крылоны дээд хаалтны кноп",
+    "english": "CTR CUSHION HOOD"
+  },
+  {
+    "mongolian": "Катализатор яндан баруун",
+    "english": "MANIFOLDASSY"
+  },
+  {
+    "mongolian": "Урд амортизаторын өндрийн трүп",
+    "english": "HEIGHT TUBE"
+  },
+  {
+    "mongolian": "Урд дотор панелийн голын хайрцагны жааз",
+    "english": "PANEL"
+  },
+  {
+    "mongolian": "Динамны шарик",
+    "english": "BALL BEARING"
+  },
+  {
+    "mongolian": "Дэлгэцийн бүтээлэг",
+    "english": "TELEVISION COVER"
+  },
+  {
+    "mongolian": "Хойд пүршний голын резин",
+    "english": "SPRINGSUB-ASSY"
+  },
+  {
+    "mongolian": "Татуурганы зөөлөвч резин",
+    "english": "STRUTBAR CUSHION"
+  },
+  {
+    "mongolian": "Рулийн өндөр даралтын мэдрэгч",
+    "english": "POWER SENSOR"
+  }
+]

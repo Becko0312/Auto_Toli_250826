@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mongolian-English Dictionary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Mongolian-English Dictionary</h1>
+            <p class="subtitle">Search in both directions</p>
+        </header>
+        
+        <main>
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search in Mongolian or English..." autocomplete="off">
+                    <button id="clearButton" class="clear-btn">&times;</button>
+                </div>
+                <div class="search-options">
+                    <label class="radio-option">
+                        <input type="radio" name="searchDirection" value="both" checked>
+                        <span>Both directions</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="searchDirection" value="mongolian">
+                        <span>Mongolian → English</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="searchDirection" value="english">
+                        <span>English → Mongolian</span>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="results-container">
+                <div id="resultsCount" class="results-count"></div>
+                <div id="resultsGrid" class="results-grid"></div>
+                <div id="noResults" class="no-results" style="display: none;">
+                    <p>No results found. Try a different search term.</p>
+                </div>
+                <div id="loadingMessage" class="loading" style="display: none;">
+                    <p>Please upload your dictionary Excel file to get started.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
