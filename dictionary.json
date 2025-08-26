@@ -129,7 +129,7 @@
   },
   {
     "mongolian": "Гуперийн хуванцар түгжээ",
-    "english": "RRBUMPER PIECE"
+    "english": "REAR BUMPER PIECE"
   },
   {
     "mongolian": "Шил арчигчийн резин",
@@ -225,7 +225,7 @@
   },
   {
     "mongolian": "Хаалганы хязгаарлагч",
-    "english": "FRDOOR CHECKASSY"
+    "english": "FRONT DOOR CHECKASSY"
   },
   {
     "mongolian": "Сам гайк",
@@ -313,7 +313,7 @@
   },
   {
     "mongolian": "Захын дамжуулагчийн цаасан жийрэг",
-    "english": "FRAXLE GASKET"
+    "english": "FRONT AXLE GASKET"
   },
   {
     "mongolian": "Бэхлэгч No.1 , рулийн гидрийн хөргөлтйин радиатор",
@@ -389,7 +389,7 @@
   },
   {
     "mongolian": "Xойд цапны шарикны шайб",
-    "english": "RRAXLE RETAINER"
+    "english": "REAR AXLE RETAINER"
   },
   {
     "mongolian": "Хөдөлгүүрийн доод хаалтны боолт",
@@ -405,7 +405,7 @@
   },
   {
     "mongolian": "Шил арчигч",
-    "english": "RH BLADE FRWIPER"
+    "english": "RH BLADE FRONT WIPER"
   },
   {
     "mongolian": "Болт",
@@ -493,7 +493,7 @@
   },
   {
     "mongolian": "Гармошка резин",
-    "english": "FRDRIVE BOOTKIT"
+    "english": "FRONT DRIVE BOOTKIT"
   },
   {
     "mongolian": "Нэгдүгээр голын шарик",
@@ -521,7 +521,7 @@
   },
   {
     "mongolian": "Урд гуперийн тогтоогчийн түгжээ",
-    "english": "FRBUMPER RETAINER"
+    "english": "FRONT BUMPER RETAINER"
   },
   {
     "mongolian": "Түгжээ 2",
@@ -597,7 +597,7 @@
   },
   {
     "mongolian": "Гупер",
-    "english": "FRBUMPER COVER"
+    "english": "FRONT BUMPER COVER"
   },
   {
     "mongolian": "Захын дамжуулагч",
@@ -705,7 +705,7 @@
   },
   {
     "mongolian": "Хойд суудал хажуу шайба",
-    "english": "RRNO.2 SPOILER"
+    "english": "REAR NO.2 SPOILER"
   },
   {
     "mongolian": "Механик кропны шар араа",
@@ -713,7 +713,7 @@
   },
   {
     "mongolian": "Гишгүүрийн арын хаалт резин",
-    "english": "RRRH PANEL STEP"
+    "english": "REAR RH PANEL STEP"
   },
   {
     "mongolian": "Урд гуперийн дээд сетки",
@@ -801,7 +801,7 @@
   },
   {
     "mongolian": "Хойд хормой",
-    "english": "RRBUMPER COVER"
+    "english": "REAR BUMPER COVER"
   },
   {
     "mongolian": "Механик кропны 5-арааны шахагч пүрш",
@@ -809,7 +809,7 @@
   },
   {
     "mongolian": "Урд хагас гол",
-    "english": "FRAXLE SHAFT"
+    "english": "FRONT AXLE SHAFT"
   },
   {
     "mongolian": "Запас дугуй өргөгч",
@@ -825,7 +825,7 @@
   },
   {
     "mongolian": "Урд гупер арын хөөсөнцөх хамгаалалт",
-    "english": "FRBUMPER ABSORBER"
+    "english": "FRONT BUMPER ABSORBER"
   },
   {
     "mongolian": "Том духны гинж",
@@ -873,7 +873,7 @@
   },
   {
     "mongolian": "Урд ступц",
-    "english": "FRAXLE HUBSET"
+    "english": "FRONT AXLE HUBSET"
   },
   {
     "mongolian": "Хойд хэвтээ тэнцүүлэгчийн даравч төмөр",
@@ -909,15 +909,15 @@
   },
   {
     "mongolian": "Хаалганы цоож",
-    "english": "FRDOOR LOCKASSY"
+    "english": "FRONT DOOR LOCKASSY"
   },
   {
     "mongolian": "Урд гуперийн доод эмжээр",
-    "english": "FRBUMPER MOULDING"
+    "english": "FRONT BUMPER MOULDING"
   },
   {
     "mongolian": "Урд гупер тогтоогч",
-    "english": "FRBUMPER SUPPORT"
+    "english": "FRONT BUMPER SUPPORT"
   },
   {
     "mongolian": "Тохируулагч шайб",
@@ -929,11 +929,11 @@
   },
   {
     "mongolian": "Урд гупер арын хөөсөнцөр хамгаалалт",
-    "english": "FRBUMPER ABSORBER"
+    "english": "FRONT BUMPER ABSORBER"
   },
   {
     "mongolian": "Хойд гупер тогтоогч",
-    "english": "RRBUMPER RETAINER"
+    "english": "REAR BUMPER RETAINER"
   },
   {
     "mongolian": "Амортизаторын шайб",
@@ -1001,7 +1001,7 @@
   },
   {
     "mongolian": "Чирэгчийн таг",
-    "english": "RRBUMPER EXTENSION"
+    "english": "REAR BUMPER EXTENSION"
   },
   {
     "mongolian": "Баруун урд крыло хөмсөг",
@@ -1025,7 +1025,7 @@
   },
   {
     "mongolian": "Гуперийн хормой",
-    "english": "FRSPOILER COVER"
+    "english": "FRONT SPOILER COVER"
   },
   {
     "mongolian": "Банкны насос",
@@ -1085,7 +1085,7 @@
   },
   {
     "mongolian": "ABS мэдрэгч",
-    "english": "FRLH SENSOR SPEED"
+    "english": "FRONT LH SENSOR SPEED"
   },
   {
     "mongolian": "Радиаторын дээд хаалт",
@@ -1105,7 +1105,7 @@
   },
   {
     "mongolian": "Урп гуперийн доод хаалт",
-    "english": "FRBUMPER COVER"
+    "english": "FRONT BUMPER COVER"
   },
   {
     "mongolian": "Тос t4 хурдны хайрцаг 20л",
@@ -1149,7 +1149,7 @@
   },
   {
     "mongolian": "Подкрыло",
-    "english": "RH LINER FRFENDER"
+    "english": "RH LINER FRONT FENDER"
   },
   {
     "mongolian": "Урд гуперийн сетки",
@@ -1281,7 +1281,7 @@
   },
   {
     "mongolian": "Таван булны хомут",
-    "english": "RRDRIVE CLAMP"
+    "english": "REAR DRIVE CLAMP"
   },
   {
     "mongolian": "Тахир голын араа",
@@ -1305,7 +1305,7 @@
   },
   {
     "mongolian": "Урд гуперийн дугаар тогтоогч",
-    "english": "FRBUMPER BRACKET"
+    "english": "FRONT BUMPER BRACKET"
   },
   {
     "mongolian": "Гишгүүрийн хөнгөн цагаан суурь",
@@ -1589,7 +1589,7 @@
   },
   {
     "mongolian": "Xойд гупер гишгүүрийн тавцан",
-    "english": "RRBUMPER PLATE"
+    "english": "REAR BUMPER PLATE"
   },
   {
     "mongolian": "Толин дээрх дохио",
@@ -1673,7 +1673,7 @@
   },
   {
     "mongolian": "Хойд гэрлийн таг",
-    "english": "RRCOMBINATION LENS"
+    "english": "REAR COMBINATION LENS"
   },
   {
     "mongolian": "Аккумуляторын клем",
@@ -1709,7 +1709,7 @@
   },
   {
     "mongolian": "Урд дотор жааз доод",
-    "english": "FRCROSS MEMBER"
+    "english": "FRONT CROSS MEMBER"
   },
   {
     "mongolian": "Капотны амортизатор",
@@ -1725,7 +1725,7 @@
   },
   {
     "mongolian": "Гуперийн цацруулагч",
-    "english": "RRFOG LENS&BODY"
+    "english": "REAR FOG LENS&BODY"
   },
   {
     "mongolian": "Кондишний радиаторын труп 2",
@@ -1733,7 +1733,7 @@
   },
   {
     "mongolian": "Урд хормой баруун никел",
-    "english": "FRSPOILER GARNISH"
+    "english": "FRONT SPOILER GARNISH"
   },
   {
     "mongolian": "Автомат кропны тосны шүүрны жийрэг",
@@ -1809,7 +1809,7 @@
   },
   {
     "mongolian": "Багажны хаалганы дотор панель",
-    "english": "FRDOOR PANELASSY"
+    "english": "FRONT DOOR PANELASSY"
   },
   {
     "mongolian": "Урд цапны шарик",
@@ -1821,7 +1821,7 @@
   },
   {
     "mongolian": "Хойд гупер арын хөөсөнцөр хамгаалалт",
-    "english": "RRBUMPER ABSORBER"
+    "english": "REAR BUMPER ABSORBER"
   },
   {
     "mongolian": "Релей",
@@ -1881,7 +1881,7 @@
   },
   {
     "mongolian": "Урд шилний булан резин",
-    "english": "FRWINDOW MOULDING"
+    "english": "FRONT WINDOW MOULDING"
   },
   {
     "mongolian": "Дээд өндгөн тулгуурны резин",
@@ -1897,7 +1897,7 @@
   },
   {
     "mongolian": "Тормозны аппаратны дуу дарагч төмөр",
-    "english": "RRPAD PLATE"
+    "english": "REAR PAD PLATE"
   },
   {
     "mongolian": "Туслах кропны сальник",
@@ -1969,7 +1969,7 @@
   },
   {
     "mongolian": "Хойд шил арчигч",
-    "english": "RRWIPER ARM"
+    "english": "REAR WIPER ARM"
   },
   {
     "mongolian": "Аккумляторын клем",
@@ -1997,7 +1997,7 @@
   },
   {
     "mongolian": "Xойд гуперын чирэгчийн хүрээ",
-    "english": "RRSTEP COVER"
+    "english": "REAR STEP COVER"
   },
   {
     "mongolian": "Гэрлийн ламп",
@@ -2009,7 +2009,7 @@
   },
   {
     "mongolian": "Xаалганы нугас",
-    "english": "FRDOOR HINGEASSY"
+    "english": "FRONT DOOR HINGEASSY"
   },
   {
     "mongolian": "Саран түгжээ",
@@ -2081,7 +2081,7 @@
   },
   {
     "mongolian": "Хойд бичиг ZX",
-    "english": "RRBODYNAME PLATE"
+    "english": "REAR BODYNAME PLATE"
   },
   {
     "mongolian": "Денамны ремень чангалагч",
@@ -2129,11 +2129,11 @@
   },
   {
     "mongolian": "Хаалганы жижиг шил",
-    "english": "RRDOOR GLASS"
+    "english": "REAR DOOR GLASS"
   },
   {
     "mongolian": "Хаалганы шил",
-    "english": "LH GLASS RRDOOR"
+    "english": "LH GLASS REAR DOOR"
   },
   {
     "mongolian": "Яндан мэдрэгч",
@@ -2153,7 +2153,7 @@
   },
   {
     "mongolian": "Гурван бул",
-    "english": "FRAXLE JOINTSET"
+    "english": "FRONT AXLE JOINTSET"
   },
   {
     "mongolian": "Хойд амортизаторын резин No2",
@@ -2169,7 +2169,7 @@
   },
   {
     "mongolian": "Хойд тэвшний хаалга",
-    "english": "RRBODY GATEASSY"
+    "english": "REAR BODY GATEASSY"
   },
   {
     "mongolian": "Кондишний радиаторын труп 1",
@@ -2185,7 +2185,7 @@
   },
   {
     "mongolian": "Копудны ус цацагч",
-    "english": "FRWASHER NOZZLE"
+    "english": "FRONT WASHER NOZZLE"
   },
   {
     "mongolian": "Суудлын бүс",
@@ -2249,7 +2249,7 @@
   },
   {
     "mongolian": "Xойд гуперын хуванцар түгжээ",
-    "english": "RRBUMPER RETAINER"
+    "english": "REAR BUMPER RETAINER"
   },
   {
     "mongolian": "Гидрийн банк",
@@ -2313,7 +2313,7 @@
   },
   {
     "mongolian": "Баруун урд чирэгч таг",
-    "english": "FRBUMPERARM COVER"
+    "english": "FRONT BUMPERARM COVER"
   },
   {
     "mongolian": "Агаарын хоолой залгаа",
@@ -2353,7 +2353,7 @@
   },
   {
     "mongolian": "Урд гуперын доод хормой",
-    "english": "FRONTBUMPERGARNISH"
+    "english": "FRONT BUMPERGARNISH"
   },
   {
     "mongolian": "Хөдөлгүүрийн асаалтын товч",
@@ -2361,7 +2361,7 @@
   },
   {
     "mongolian": "Урд сеткин нүүрний эмблем",
-    "english": "FRONTGRILLEMBLEM"
+    "english": "FRONT GRILLEMBLEM"
   },
   {
     "mongolian": "Салоны карбон дүб",
@@ -2369,7 +2369,7 @@
   },
   {
     "mongolian": "Хойд гуперийн доод хормой",
-    "english": "REARBUMPERGARNISH"
+    "english": "REAR BUMPER GARNISH"
   },
   {
     "mongolian": "Түлшний шүүрний гэр",
@@ -2389,7 +2389,7 @@
   },
   {
     "mongolian": "Хаалганы жижиг бариул таг",
-    "english": "RRDOOR COVER"
+    "english": "REAR DOOR COVER"
   },
   {
     "mongolian": "Хойд барбан хамгаалагч резин",
@@ -2417,7 +2417,7 @@
   },
   {
     "mongolian": "Толины хавтас",
-    "english": "MIRROROUTERRR"
+    "english": "MIRROROUTER REAR"
   },
   {
     "mongolian": "Яндан хойд",
@@ -2437,7 +2437,7 @@
   },
   {
     "mongolian": "Суудлын зам",
-    "english": "FRSEAT TRACKASSY"
+    "english": "FRONT SEAT TRACKASSY"
   },
   {
     "mongolian": "Багаж 15",
@@ -2485,7 +2485,7 @@
   },
   {
     "mongolian": "Хойд подкрыло",
-    "english": "RRWHEEL LINER"
+    "english": "REAR WHEEL LINER"
   },
   {
     "mongolian": "Аккумляторын даруулга төмөр",
@@ -2533,7 +2533,7 @@
   },
   {
     "mongolian": "Хаалганы зөөлөвч",
-    "english": "FRDOOR CUSHION"
+    "english": "FRONT DOOR CUSHION"
   },
   {
     "mongolian": "Цахилгаан релейн самбар зүүн",
@@ -2541,7 +2541,7 @@
   },
   {
     "mongolian": "Урд хөмсөгний жийргэвч резин",
-    "english": "FRWHEEL PAD"
+    "english": "FRONT WHEEL PAD"
   },
   {
     "mongolian": "Босоо тэнцүүлэгч",
@@ -2625,7 +2625,7 @@
   },
   {
     "mongolian": "Хаалганы шилний босоо эмжээр",
-    "english": "FRDOOR MOULDING"
+    "english": "FRONT DOOR MOULDING"
   },
   {
     "mongolian": "Гишгүүр доод суурь тогтоогч",
@@ -2697,7 +2697,7 @@
   },
   {
     "mongolian": "Хойд гуперийн нэмэлт хормой",
-    "english": "RRBUMPER GUARD"
+    "english": "REAR BUMPER GUARD"
   },
   {
     "mongolian": "Тормозны аппаратны мэдрэгч төмөр",
@@ -2729,7 +2729,7 @@
   },
   {
     "mongolian": "Хаалганы гадна бариулын жийрэг резин",
-    "english": "FRDOOROUTSIDE PAD"
+    "english": "FRONT DOOROUTSIDE PAD"
   },
   {
     "mongolian": "Манангийн гэрлийн никель хүрээ",
@@ -2821,7 +2821,7 @@
   },
   {
     "mongolian": "Хаалганы дотор эмжээр",
-    "english": "RRDOOR PROTECTOR"
+    "english": "REAR DOOR PROTECTOR"
   },
   {
     "mongolian": "Хөдөлгүүрийн доод хаалт",
@@ -2837,7 +2837,7 @@
   },
   {
     "mongolian": "Урд хормойн голын никель",
-    "english": "FRSPOILER GARNISH"
+    "english": "FRONT SPOILER GARNISH"
   },
   {
     "mongolian": "Гар тормозны актуатор LX570 эд анги",
@@ -2869,11 +2869,11 @@
   },
   {
     "mongolian": "Хаалганы никель эмжээр",
-    "english": "FRDOOR STRIPE"
+    "english": "FRONT DOOR STRIPE"
   },
   {
     "mongolian": "Зүүн урд хаалга босоо кант",
-    "english": "FRDOOR STRIPE"
+    "english": "FRONT DOOR STRIPE"
   },
   {
     "mongolian": "Рулын чагт",
@@ -2901,7 +2901,7 @@
   },
   {
     "mongolian": "Борхов хүрээ",
-    "english": "RRBUMPERHOLE COVER"
+    "english": "REAR BUMPERHOLE COVER"
   },
   {
     "mongolian": "доод өндөг",
@@ -2937,7 +2937,7 @@
   },
   {
     "mongolian": "Хаалганы гадна бариулын жижиг таг",
-    "english": "FRDOOR COVER"
+    "english": "FRONT DOOR COVER"
   },
   {
     "mongolian": "Нудраган гол араа",
@@ -3093,7 +3093,7 @@
   },
   {
     "mongolian": "Хаалганы гурвалжин",
-    "english": "FRDOORLWR GARNISH"
+    "english": "FRONT DOORLWR GARNISH"
   },
   {
     "mongolian": "Интеграйшн релей",
@@ -3253,7 +3253,7 @@
   },
   {
     "mongolian": "Зүүн хойд ABS-мэдрэгч",
-    "english": "RRLH SENSOR SPEED"
+    "english": "REAR LH SENSOR SPEED"
   },
   {
     "mongolian": "Хажуу резин зүүн",
@@ -3413,7 +3413,7 @@
   },
   {
     "mongolian": "Баруун урд гуперийн булан",
-    "english": "FRBUMPER PAD"
+    "english": "FRONT BUMPER PAD"
   },
   {
     "mongolian": "Зурвас ачааны голын тогтоогч",
@@ -3465,11 +3465,11 @@
   },
   {
     "mongolian": "Хойд гупер баруун булан",
-    "english": "RH PLATE RRBUMPER"
+    "english": "RH PLATE REAR BUMPER"
   },
   {
     "mongolian": "Хойд гупер зүүн булан",
-    "english": "LH PLATE RRBUMPER"
+    "english": "LH PLATE REAR BUMPER"
   },
   {
     "mongolian": "Хойд тэлдэг наклад тохируулагч болт",
@@ -3521,7 +3521,7 @@
   },
   {
     "mongolian": "Баруун урд крылоны LC бичиг",
-    "english": "FRFENDER EMBLEM"
+    "english": "FRONT FENDER EMBLEM"
   },
   {
     "mongolian": "Суудал санагчийн удирдлага",
@@ -3613,7 +3613,7 @@
   },
   {
     "mongolian": "Баруун хойд дотор шалны даруулга",
-    "english": "RRDOORSCUFF PLATE"
+    "english": "REAR DOORSCUFF PLATE"
   },
   {
     "mongolian": "Хөдөлгүүрийн доод эд анги",
@@ -3621,7 +3621,7 @@
   },
   {
     "mongolian": "Хойд бичиг GR",
-    "english": "FRFENDER PLATE"
+    "english": "FRONT FENDER PLATE"
   },
   {
     "mongolian": "Гидрийн радиатор",
@@ -3629,7 +3629,7 @@
   },
   {
     "mongolian": "Ухрах гэрэл",
-    "english": "RH LED RRLAMP"
+    "english": "RH LED REARLAMP"
   },
   {
     "mongolian": "Хаалганы самбарын гэрэл",
@@ -3717,7 +3717,7 @@
   },
   {
     "mongolian": "Ус цацагчийн хошуу",
-    "english": "FRWASHER NOZZLE"
+    "english": "FRONT WASHER NOZZLE"
   },
   {
     "mongolian": "Хаалганы доод түгжээ резин",
@@ -3749,7 +3749,7 @@
   },
   {
     "mongolian": "Хойд их бие дээрх гэрлийн боолт таг",
-    "english": "RRLAMP COVER"
+    "english": "REAR LAMP COVER"
   },
   {
     "mongolian": "Редукторын зүрх арааны үзүүр шайб",
@@ -3769,7 +3769,7 @@
   },
   {
     "mongolian": "Хаалганы бариулын суурь",
-    "english": "FRONT FRAMESUB-ASSY"
+    "english": "FRONT FRAME SUB-ASSY"
   },
   {
     "mongolian": "Сүлжээний компьютер",
@@ -3793,7 +3793,7 @@
   },
   {
     "mongolian": "Багажны суудлын нугасны таг",
-    "english": "RRSEATHINGE COVER"
+    "english": "REAR SEATHINGE COVER"
   },
   {
     "mongolian": "Хойд номерийн суурь",
@@ -3829,7 +3829,7 @@
   },
   {
     "mongolian": "Урд пүршний зөөлөвч",
-    "english": "FRSPRING BUMPER"
+    "english": "FRONT SPRING BUMPER"
   },
   {
     "mongolian": "Баруун урд хаалганы жижиг бариул",
@@ -3841,7 +3841,7 @@
   },
   {
     "mongolian": "Тормозны аппаратны эрүү",
-    "english": "RRDISC MOUNTING"
+    "english": "REAR DISC MOUNTING"
   },
   {
     "mongolian": "Хаалганы цоожлогч товчлуур",
@@ -3857,7 +3857,7 @@
   },
   {
     "mongolian": "Урд гуперийн таг",
-    "english": "FRBUMPER GARNISH"
+    "english": "FRONT BUMPER GARNISH"
   },
   {
     "mongolian": "Ачааны хөлний резин",
@@ -3881,7 +3881,7 @@
   },
   {
     "mongolian": "Манангийн гэрлийн арын суурь",
-    "english": "FRBUMPER BRACKET"
+    "english": "FRONT BUMPER BRACKET"
   },
   {
     "mongolian": "Товуд 1",
@@ -3913,7 +3913,7 @@
   },
   {
     "mongolian": "Хаалга хязгаарлагч",
-    "english": "FRDOOR CHECKASSY"
+    "english": "FRONT DOOR CHECKASSY"
   },
   {
     "mongolian": "Хойд баруун эмьблем",
@@ -3933,7 +3933,7 @@
   },
   {
     "mongolian": "Урд гуперийн доод тогтоогч",
-    "english": "FRBUMPER GARNISH"
+    "english": "FRONT BUMPER GARNISH"
   },
   {
     "mongolian": "Шил арчигчийн шингэн түвшин мэдрэгч",
@@ -3961,7 +3961,7 @@
   },
   {
     "mongolian": "хойд тэвшний втулка",
-    "english": "RRSUSPENSION BUSH"
+    "english": "REAR SUSPENSION BUSH"
   },
   {
     "mongolian": "нумны втулка",
@@ -4009,7 +4009,7 @@
   },
   {
     "mongolian": "Хавтас толь Camry",
-    "english": "OUTERRR MIRROR"
+    "english": "OUTERREAR MIRROR"
   },
   {
     "mongolian": "Аккумляторын нэмэн клем",
@@ -4021,11 +4021,11 @@
   },
   {
     "mongolian": "Яндангийн хаалт",
-    "english": "FRFLOOR INSULATOR"
+    "english": "FRONT FLOOR INSULATOR"
   },
   {
     "mongolian": "Зүүн хойд хаалганы нарийн никель",
-    "english": "RRDOOR MOULDING"
+    "english": "REAR DOOR MOULDING"
   },
   {
     "mongolian": "Агаарын хавхлага",
@@ -4037,11 +4037,11 @@
   },
   {
     "mongolian": "Толины боолтны таг",
-    "english": "FRFENDER COVER"
+    "english": "FRONT FENDER COVER"
   },
   {
     "mongolian": "Хойд суудлын бүс",
-    "english": "RRSEAT BELTASSY"
+    "english": "REAR SEAT BELTASSY"
   },
   {
     "mongolian": "Бензиний трүпны клапан",
@@ -4069,11 +4069,11 @@
   },
   {
     "mongolian": "Суудлын боолтны таг",
-    "english": "RRSEATTRACK COVER"
+    "english": "REAR SEATTRACK COVER"
   },
   {
     "mongolian": "Урд тэнхлэг втулк резин",
-    "english": "FRSUSP CUSHION"
+    "english": "FRONT SUSP CUSHION"
   },
   {
     "mongolian": "Шил арчигчийн шингэний савны жийрэг",
@@ -4085,7 +4085,7 @@
   },
   {
     "mongolian": "Хойд гуперийн никель эмжээр",
-    "english": "RRBUMPER MOULDING"
+    "english": "REAR BUMPER MOULDING"
   },
   {
     "mongolian": "Шил арчигчийн речак",
@@ -4093,7 +4093,7 @@
   },
   {
     "mongolian": "Хойд гуперийн гишгүүрийн резин",
-    "english": "RRBUMPER PLATE"
+    "english": "REAR BUMPER PLATE"
   },
   {
     "mongolian": "Xойд редукторын жийрэг",
@@ -4101,7 +4101,7 @@
   },
   {
     "mongolian": "Тэвшний крыло",
-    "english": "SIDE PANEL RRBODY"
+    "english": "SIDE PANEL REARBODY"
   },
   {
     "mongolian": "Сеткин нүүр",
@@ -4117,7 +4117,7 @@
   },
   {
     "mongolian": "Урд крылоны доод хаалт",
-    "english": "FRFENDER SEAL"
+    "english": "FRONT FENDER SEAL"
   },
   {
     "mongolian": "Гар тормозны пүрш тогтоогч",
@@ -4133,7 +4133,7 @@
   },
   {
     "mongolian": "Багажны доод хаалганы шалавч панедь",
-    "english": "RRFLOORMAT PLATE"
+    "english": "REAR FLOORMAT PLATE"
   },
   {
     "mongolian": "Толь хураагчийн удирдлага",
@@ -4197,7 +4197,7 @@
   },
   {
     "mongolian": "Суудлын түгжээ",
-    "english": "FRSEAT SUPPORT"
+    "english": "FRONT SEAT SUPPORT"
   },
   {
     "mongolian": "Автомат кропны шахагч араа",
@@ -4217,7 +4217,7 @@
   },
   {
     "mongolian": "Хойд салхи зүсэгчийн түгжээ",
-    "english": "RRSPOILER CLIP"
+    "english": "REAR SPOILER CLIP"
   },
   {
     "mongolian": "Их гэрэл шилжүүлэгчийн мэдрэгч",
@@ -4261,7 +4261,7 @@
   },
   {
     "mongolian": "Хаалганы дотор бариулын суурь",
-    "english": "FRDOOR BEZEL"
+    "english": "FRONT DOOR BEZEL"
   },
   {
     "mongolian": "Крылоны дотор панель",
@@ -4301,7 +4301,7 @@
   },
   {
     "mongolian": "Ус шүршигчийн мотор",
-    "english": "FRWIPER MOTORASSY"
+    "english": "FRONT WIPER MOTORASSY"
   },
   {
     "mongolian": "Сафоны таг",
@@ -4329,11 +4329,11 @@
   },
   {
     "mongolian": "Голын хайрцагны суурь",
-    "english": "RRCONSOLE BOX"
+    "english": "REAR CONSOLE BOX"
   },
   {
     "mongolian": "Хөмсөгний жийргэвч резин",
-    "english": "RRWHEEL PAD"
+    "english": "REAR WHEEL PAD"
   },
   {
     "mongolian": "Хөдөлгүүр",
@@ -4341,7 +4341,7 @@
   },
   {
     "mongolian": "Ус цацагч хошуу хойд",
-    "english": "RRWASHER NOZZLE"
+    "english": "REAR WASHER NOZZLE"
   },
   {
     "mongolian": "Радиаторын хоолой",
@@ -4349,7 +4349,7 @@
   },
   {
     "mongolian": "Xойд гуперийн бэхлэгч",
-    "english": "RRBUMPER BRACKET"
+    "english": "REAR BUMPER BRACKET"
   },
   {
     "mongolian": "Паарны удирдлагын самбар",
@@ -4425,7 +4425,7 @@
   },
   {
     "mongolian": "Суудлын дотор рам",
-    "english": "FRSEAT FRAMEASSY"
+    "english": "FRONT SEAT FRAME ASSY"
   },
   {
     "mongolian": "Урд баганын дотор хаалт",
@@ -4501,19 +4501,19 @@
   },
   {
     "mongolian": "Суудлын бүсний түгжээ",
-    "english": "FRSEAT BELTKIT"
+    "english": "FRONT SEAT BELTKIT"
   },
   {
     "mongolian": "Урд крылоны хажуу хаалт",
-    "english": "FRFENDER PROTECTOR"
+    "english": "FRONT FENDER PROTECTOR"
   },
   {
     "mongolian": "Суудлын замны таг",
-    "english": "RRSEAT PANELKIT"
+    "english": "REAR SEAT PANELKIT"
   },
   {
     "mongolian": "Баруун таван бул",
-    "english": "FRDRIVE JOINTASSY"
+    "english": "FRONT DRIVE JOINTASSY"
   },
   {
     "mongolian": "Хойд ухрахын гэрлийн потрон",
@@ -4529,7 +4529,7 @@
   },
   {
     "mongolian": "Суудлын налавчны парлон",
-    "english": "FRSEATBACK PAD"
+    "english": "FRONT SEATBACK PAD"
   },
   {
     "mongolian": "Урд гуперийн хамгаалалтын бэхэлгээ",
@@ -4553,11 +4553,11 @@
   },
   {
     "mongolian": "Багажны хаалганы доод тавцан",
-    "english": "RRFLOOR PLATE"
+    "english": "REAR FLOOR PLATE"
   },
   {
     "mongolian": "Зүүн урд шалны үндсэн бэхэлгээ төмөр",
-    "english": "FRSIDE MEMBER"
+    "english": "FRONT SIDE MEMBER"
   },
   {
     "mongolian": "Ослын дэр урд сандал",
@@ -4565,7 +4565,7 @@
   },
   {
     "mongolian": "Хойд гуперийн тавцан",
-    "english": "RRBUMPER STEP"
+    "english": "REAR BUMPER STEP"
   },
   {
     "mongolian": "Крылоны жийргэвч",
